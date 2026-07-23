@@ -33,12 +33,22 @@ All analysis runs via **GitHub Actions**. Results are stored as plain text files
    - Subfinder with inline DNS validation (`-active`) on a rotating 3% slice of scope (with overlap)
    - Results merged into per-domain storage files and aggregated
 
+3. **Passive enrichment** — runs with each rotating scan and as a weekly full refresh:
+   - Certificate Transparency (`crt.sh`), urlscan.io history, Wayback CDX, and Common Crawl
+   - RDAP metadata for scoped domains and the IP ranges in `ip.txt`
+   - Passive candidates are stored separately and are not automatically promoted to confirmed scope
+
 
 ### Repository Structure
 
 - [`scope/rijksoverheid.txt`](https://raw.githubusercontent.com/zzzteph/DutchGovScope/refs/heads/main/scope/rijksoverheid.txt) – Verified **Rijksoverheid** root domains
 - [`storage/subdomains.txt`](https://raw.githubusercontent.com/zzzteph/DutchGovScope/refs/heads/main/storage/subdomains.txt) – All discovered subdomains (combined)
 - [`storage/rijksoverheid/subdomains.txt`](https://raw.githubusercontent.com/zzzteph/DutchGovScope/refs/heads/main/storage/rijksoverheid/subdomains.txt) – Subdomains under **Rijksoverheid** domains
+- `storage/rijksoverheid/<domain>/passive.jsonl` – Passive hostname observations with source and timestamps
+- `storage/rijksoverheid/passive_candidates.txt` – Deduplicated passive candidates for review
+- `storage/rijksoverheid/<domain>/rdap.json` – Domain registration/nameserver metadata
+
+The optional `URLSCAN_API_KEY` GitHub Actions secret increases urlscan.io search quota. Without it, the enrichment workflow still runs using unauthenticated public search limits.
 
 
 ### Scanning examples

@@ -1,0 +1,54 @@
+name: Passive enrichment
+
+on:
+  schedule:
+    - cron: "30 2 * * 0"   # Weekly, Sunday 02:30 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: passive-enrichment
+  cancel-in-progress: false
+
+jobs:
+  enrich:
+    runs-on: ubuntu-latest
+    timeout-minutes: 240
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: python -m pip install requests tldextract
+
+      - name: Collect all passive enrichment and IP RDAP metadata
+        env:
+          URLSCAN_API_KEY: ${{ secrets.URLSCAN_API_KEY }}
+        run: |
+          python3 engine/passive_enrichment.py \
+            scope/rijksoverheid.txt \
+            --storage storage/rijksoverheid \
+            --ip-file ip.txt \
+            --concurrency 3
+
+      - name: Commit passive evidence
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase --autostash
+          git add storage/
+          git commit -m "Auto-update: passive scope enrichment" || echo "No changes to commit"
+          for attempt in 1 2 3; do
+            if git push; then exit 0; fi
+            git pull --rebase --autostash
+            sleep 5
+          done
+          exit 1

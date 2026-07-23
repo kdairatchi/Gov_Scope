@@ -84,6 +84,16 @@ jobs:
             /dev/null \
             storage/rijksoverheid
 
+      # ── Passive enrichment: CT, urlscan, Wayback, Common Crawl, RDAP ────
+      - name: Collect passive enrichment
+        env:
+          URLSCAN_API_KEY: ${{ secrets.URLSCAN_API_KEY }}
+        run: |
+          python3 engine/passive_enrichment.py \
+            scope_chunk.txt \
+            --storage storage/rijksoverheid \
+            --concurrency 3
+
       - name: Cleanup
         run: rm -f subfinder_raw.jsonl scope_chunk.txt
 
