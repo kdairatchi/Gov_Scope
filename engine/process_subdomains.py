@@ -12,6 +12,7 @@ import tldextract
 
 
 def root_domain(host: str) -> str | None:
+    host = host.strip().lower().rstrip(".")
     ext = tldextract.extract(host)
     if ext.domain and ext.suffix:
         return f"{ext.domain}.{ext.suffix}"
@@ -19,9 +20,16 @@ def root_domain(host: str) -> str | None:
 
 
 def main():
+    if len(sys.argv) != 4:
+        print("Usage: process_subdomains.py <subfinder.jsonl> <dnsx_valid.txt> <storage/rijksoverheid>")
+        raise SystemExit(1)
+
     subfinder_file = Path(sys.argv[1])
     dnsx_file      = Path(sys.argv[2])
     storage        = Path(sys.argv[3])
+
+    if not storage.is_dir():
+        raise SystemExit(f"Storage directory not found: {storage}")
 
     # Parse subfinder JSON lines (with -active flag all entries are DNS-validated)
     # Format: {"input":"root.nl","source":"...","host":"sub.root.nl"}
@@ -30,7 +38,7 @@ def main():
     extra_valid: set[str] = set()
     if dnsx_file.exists() and dnsx_file.name != "null":
         for line in dnsx_file.read_text(errors="replace").splitlines():
-            h = line.strip().lower()
+            h = line.strip().lower().rstrip(".")
             if h:
                 extra_valid.add(h)
 
@@ -42,11 +50,13 @@ def main():
                 continue
             try:
                 obj = json.loads(line)
-                host         = obj.get("host", "").lower().strip()
-                input_domain = obj.get("input", "").lower().strip()
+                host         = obj.get("host", "").lower().strip().rstrip(".")
+                input_domain = obj.get("input", "").lower().strip().rstrip(".")
                 if host:
                     root = root_domain(input_domain) or root_domain(host)
-                    if root:
+                    # Never allow a provider response to write an unrelated
+                    # hostname into a scope domain's storage directory.
+                    if root and host != root and host.endswith("." + root):
                         confirmed[host] = root
             except (json.JSONDecodeError, KeyError):
                 pass
@@ -56,7 +66,7 @@ def main():
     for h in extra_valid:
         if h not in confirmed:
             r = root_domain(h)
-            if r:
+            if r and h != r:
                 confirmed[h] = r
 
     # Group by root domain
@@ -100,7 +110,7 @@ def main():
             seen.add(s)
             deduped.append(s)
 
-    agg = "\n".join(deduped) + "\n"
+    agg = "\n".join(deduped) + ("\n" if deduped else "")
     (storage / "subdomains.txt").write_text(agg, encoding="utf-8")
     (storage.parent / "subdomains.txt").write_text(agg, encoding="utf-8")
     print(f"Aggregate subdomains.txt: {len(deduped)} total entries")

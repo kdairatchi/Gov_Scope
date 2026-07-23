@@ -7,6 +7,9 @@ on:
         description: "Chunk index 0-29 (leave empty to scan full scope)"
         required: false
 
+permissions:
+  contents: write
+
 concurrency:
   group: subfinder-manual-scan
   cancel-in-progress: false
@@ -31,10 +34,15 @@ jobs:
       # ── Select chunk or full scope ─────────────────────────────────────────
       - name: Select scope
         id: chunk
+        env:
+          REQUESTED_CHUNK: ${{ inputs.chunk }}
         run: |
-          if [ -n "${{ github.event.inputs.chunk }}" ]; then
-            CHUNK="${{ github.event.inputs.chunk }}"
+          if [ -n "$REQUESTED_CHUNK" ]; then
+            CHUNK="$REQUESTED_CHUNK"
+            case "$CHUNK" in ''|*[!0-9]*) echo "chunk must be an integer from 0 to 29" >&2; exit 1;; esac
+            [ "$CHUNK" -le 29 ] || { echo "chunk must be from 0 to 29" >&2; exit 1; }
             TOTAL=$(wc -l < scope/rijksoverheid.txt)
+            [ "$TOTAL" -gt 0 ] || { echo "Scope is empty" >&2; exit 1; }
             CHUNK_SIZE=$(( (TOTAL + 29) / 30 ))
             OVERLAP=$(( TOTAL / 100 ))
             START=$(( CHUNK * CHUNK_SIZE - OVERLAP + 1 ))
@@ -45,6 +53,7 @@ jobs:
             echo "chunk=$CHUNK" >> $GITHUB_OUTPUT
             echo "Chunk $CHUNK (lines $START-$END) — $(wc -l < scope_chunk.txt) of $TOTAL domains"
           else
+            [ -s scope/rijksoverheid.txt ] || { echo "Scope is empty" >&2; exit 1; }
             cp scope/rijksoverheid.txt scope_chunk.txt
             echo "chunk=all" >> $GITHUB_OUTPUT
             echo "Full scope — $(wc -l < scope_chunk.txt) domains"
@@ -87,4 +96,9 @@ jobs:
           git add storage/
           git commit -m "Auto-update: subdomain scan (chunk ${{ steps.chunk.outputs.chunk }})" \
             || echo "No changes to commit"
-          git push
+          for attempt in 1 2 3; do
+            if git push; then exit 0; fi
+            git pull --rebase --autostash
+            sleep 5
+          done
+          exit 1

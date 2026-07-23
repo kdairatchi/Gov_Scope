@@ -272,7 +272,8 @@ def vision_classify(screenshot_bytes: bytes, client) -> tuple[str, str]:
     image_b64 = base64.standard_b64encode(screenshot_bytes).decode()
     try:
         msg = client.messages.create(
-            model="claude-opus-4-7",
+            # Keep the model configurable because Anthropic model IDs change.
+            model=os.environ.get("ANTHROPIC_MODEL", "claude-sonnet-4-20250514"),
             max_tokens=60,
             messages=[{
                 "role": "user",
@@ -342,7 +343,7 @@ async def run(args):
         print(f"Error: {input_path} not found")
         sys.exit(1)
 
-    domains = [l.strip() for l in input_path.read_text(encoding="utf-8").splitlines() if l.strip()]
+    domains = sorted({l.strip().lower().rstrip(".") for l in input_path.read_text(encoding="utf-8").splitlines() if l.strip()})
     print(f"Loaded {len(domains)} domains from {input_path}")
 
     use_browser = PLAYWRIGHT_AVAILABLE and not args.no_vision
@@ -386,10 +387,15 @@ async def run(args):
     rejected      = [r for r in results if r["status"] == "rejected"]
     manual_review = [r for r in results if r["status"] == "manual_review"]
 
-    (output_dir / "confirmed.txt").write_text("\n".join(r["domain"] for r in confirmed), encoding="utf-8")
-    (output_dir / "rejected.txt").write_text("\n".join(r["domain"] for r in rejected), encoding="utf-8")
-    (output_dir / "manual_review.txt").write_text("\n".join(r["domain"] for r in manual_review), encoding="utf-8")
-    (output_dir / "details.jsonl").write_text("\n".join(json.dumps(r) for r in results), encoding="utf-8")
+    def write_lines(name, rows):
+        text = "\n".join(rows)
+        (output_dir / name).write_text(text + ("\n" if text else ""), encoding="utf-8")
+
+    write_lines("confirmed.txt", (r["domain"] for r in confirmed))
+    write_lines("rejected.txt", (r["domain"] for r in rejected))
+    write_lines("manual_review.txt", (r["domain"] for r in manual_review))
+    details = "\n".join(json.dumps(r, ensure_ascii=False) for r in results)
+    (output_dir / "details.jsonl").write_text(details + ("\n" if details else ""), encoding="utf-8")
 
     print(f"\n{'─'*50}")
     print(f"  Confirmed:     {len(confirmed):>4}")

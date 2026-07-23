@@ -5,6 +5,9 @@ on:
     - cron: "0 4 1 * *"   # Monthly, 1st of the month 04:00 UTC
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 concurrency:
   group: communicatierijk-update
   cancel-in-progress: false
@@ -40,8 +43,9 @@ jobs:
       - name: Get newly confirmed domains
         id: new_domains
         run: |
-          git diff scope/rijksoverheid.txt \
+          git diff --unified=0 scope/rijksoverheid.txt \
             | grep "^+" | grep -v "^+++" | cut -c2- \
+            | sed '/^[[:space:]]*$/d' \
             > new_domains.txt
           COUNT=$(wc -l < new_domains.txt | tr -d ' ')
           echo "count=$COUNT" >> $GITHUB_OUTPUT
@@ -85,4 +89,9 @@ jobs:
           git add scope/ storage/
           git commit -m "Auto-update: communicatierijk scope refresh" \
             || echo "No changes to commit"
-          git push
+          for attempt in 1 2 3; do
+            if git push; then exit 0; fi
+            git pull --rebase --autostash
+            sleep 5
+          done
+          exit 1

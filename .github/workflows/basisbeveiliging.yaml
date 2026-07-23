@@ -4,6 +4,9 @@ name: basisbeveiliging exec
 on:
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 concurrency:
   group: scope-scan
   cancel-in-progress: false
@@ -28,17 +31,17 @@ jobs:
 
       - name: Run update script
         run: |
-          python engine/basisbeveiliging.py scope.txt
-          cat scope.txt scope/rijksoverheid.txt | sort -u > scope/rijksoverheid.tmp
+          python engine/basisbeveiliging.py /tmp/basisbeveiliging_scope.txt
+          cat /tmp/basisbeveiliging_scope.txt scope/rijksoverheid.txt \
+            | sed '/^[[:space:]]*$/d' | sort -u > scope/rijksoverheid.tmp
           mv scope/rijksoverheid.tmp scope/rijksoverheid.txt
-
 
 
       - name: Commit changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git pull
+          git pull --rebase --autostash
           git add -A scope/rijksoverheid.txt
           git commit -m "Auto-update: updated basisbeveiliging" || echo "No changes to commit"
           git push

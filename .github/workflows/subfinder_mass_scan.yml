@@ -9,6 +9,9 @@ on:
         description: "Chunk index 0-29 (leave empty to use today's date)"
         required: false
 
+permissions:
+  contents: write
+
 concurrency:
   group: subfinder-mass-scan
   cancel-in-progress: false
@@ -33,14 +36,19 @@ jobs:
       # ── Select sliding window: 1% overlap + 3% core + 1% overlap ──────────
       - name: Select scope chunk
         id: chunk
+        env:
+          REQUESTED_CHUNK: ${{ inputs.chunk }}
         run: |
-          if [ -n "${{ github.event.inputs.chunk }}" ]; then
-            CHUNK="${{ github.event.inputs.chunk }}"
+          if [ -n "$REQUESTED_CHUNK" ]; then
+            CHUNK="$REQUESTED_CHUNK"
+            case "$CHUNK" in ''|*[!0-9]*) echo "chunk must be an integer from 0 to 29" >&2; exit 1;; esac
+            [ "$CHUNK" -le 29 ] || { echo "chunk must be from 0 to 29" >&2; exit 1; }
           else
             CHUNK=$(( $(date +%-j) % 30 ))
           fi
 
           TOTAL=$(wc -l < scope/rijksoverheid.txt)
+          if [ "$TOTAL" -eq 0 ]; then echo "Scope is empty" >&2; exit 1; fi
           CHUNK_SIZE=$(( (TOTAL + 29) / 30 ))      # ~3% core
           OVERLAP=$(( TOTAL / 100 ))                # ~1% each side
 
@@ -91,4 +99,9 @@ jobs:
           git add storage/
           git commit -m "Auto-update: subdomain scan (chunk ${{ steps.chunk.outputs.chunk }}/30)" \
             || echo "No changes to commit"
-          git push
+          for attempt in 1 2 3; do
+            if git push; then exit 0; fi
+            git pull --rebase --autostash
+            sleep 5
+          done
+          exit 1
