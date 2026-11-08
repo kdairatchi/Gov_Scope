@@ -1,0 +1,22 @@
+{
+  "observed_at": "2026-11-08T09:59:00+00:00",
+  "domain": "kansspelautoriteit.nl",
+  "ldhName": "kansspelautoriteit.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "a1-167.akam.net",
+    "a10-67.akam.net",
+    "a12-65.akam.net",
+    "a26-64.akam.net",
+    "a3-64.akam.net",
+    "a5-67.akam.net"
+  ],
+  "entities": [
+    "DIE020959-RIJKS",
+    "DIE020959-RIJKS",
+    "RIJ031105-RIJKS",
+    "0000"
+  ]
+}

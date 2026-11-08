@@ -1,0 +1,20 @@
+{
+  "observed_at": "2026-11-08T09:51:31+00:00",
+  "domain": "inspectielandschap.nl",
+  "ldhName": "inspectielandschap.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "ns-1478.awsdns-56.org",
+    "ns-1766.awsdns-28.co.uk",
+    "ns-360.awsdns-45.com",
+    "ns-991.awsdns-59.net"
+  ],
+  "entities": [
+    "DIE037765-RIJKS",
+    "DIE037765-RIJKS",
+    "RIJ038642-RIJKS",
+    "0000"
+  ]
+}

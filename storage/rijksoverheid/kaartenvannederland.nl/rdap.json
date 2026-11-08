@@ -1,0 +1,18 @@
+{
+  "observed_at": "2026-11-08T09:58:26+00:00",
+  "domain": "kaartenvannederland.nl",
+  "ldhName": "kaartenvannederland.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "ns0017.secondary.cloudflare.com",
+    "ns0175.secondary.cloudflare.com"
+  ],
+  "entities": [
+    "LUI002139-CAPGE",
+    "DAR007081-CAPGE",
+    "DIE026678-CAPGE",
+    "0000"
+  ]
+}

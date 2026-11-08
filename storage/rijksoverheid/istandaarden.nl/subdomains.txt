@@ -1,4 +1,6 @@
+acc.istandaarden.nl
 acceptatie.istandaarden.nl
+dev.istandaarden.nl
 doc.acceptatie.istandaarden.nl
 doc.istandaarden.nl
 elearning.istandaarden.nl
@@ -12,6 +14,7 @@ repository.acceptatie.istandaarden.nl
 repository.istandaarden.nl
 sso.acceptatie.istandaarden.nl
 sso.istandaarden.nl
+tst.istandaarden.nl
 www-ac.istandaarden.nl
 www-acc.istandaarden.nl
 www-acc2.istandaarden.nl

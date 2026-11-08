@@ -1,0 +1,20 @@
+{
+  "observed_at": "2026-11-08T09:55:21+00:00",
+  "domain": "iuc-noord.nl",
+  "ldhName": "iuc-noord.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "ns1.surfnet.nl",
+    "ns1.zurich.surf.net",
+    "ns2.surfnet.nl",
+    "ns3.surfnet.nl"
+  ],
+  "entities": [
+    "DIE017131-SURFN",
+    "DIE017131-SURFN",
+    "DIE017131-SURFN",
+    "0000"
+  ]
+}

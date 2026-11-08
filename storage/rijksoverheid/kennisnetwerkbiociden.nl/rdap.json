@@ -1,0 +1,20 @@
+{
+  "observed_at": "2026-11-08T10:01:08+00:00",
+  "domain": "kennisnetwerkbiociden.nl",
+  "ldhName": "kennisnetwerkbiociden.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "ns1.ssc-campus.nl",
+    "ns1.w-e-r-k.nl",
+    "ns2.ssc-campus.nl",
+    "ns2.w-e-r-k.nl"
+  ],
+  "entities": [
+    "DIE039938-RIJKS",
+    "RIJ038642-RIJKS",
+    "DIE039938-RIJKS",
+    "0000"
+  ]
+}
