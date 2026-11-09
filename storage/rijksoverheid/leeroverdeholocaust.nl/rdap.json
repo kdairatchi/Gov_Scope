@@ -1,0 +1,18 @@
+{
+  "observed_at": "2026-11-09T11:10:27+00:00",
+  "domain": "leeroverdeholocaust.nl",
+  "ldhName": "leeroverdeholocaust.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "bingo.ns.cloudflare.com",
+    "cris.ns.cloudflare.com"
+  ],
+  "entities": [
+    "DIE039938-RIJKS",
+    "DIE039938-RIJKS",
+    "RIJ038642-RIJKS",
+    "0000"
+  ]
+}

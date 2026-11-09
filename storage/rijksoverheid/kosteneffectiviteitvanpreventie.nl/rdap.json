@@ -1,0 +1,20 @@
+{
+  "observed_at": "2026-11-09T11:05:02+00:00",
+  "domain": "kosteneffectiviteitvanpreventie.nl",
+  "ldhName": "kosteneffectiviteitvanpreventie.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "ns1.ssc-campus.nl",
+    "ns1.surfnet.nl",
+    "ns2.ssc-campus.nl",
+    "ns2.surfnet.nl"
+  ],
+  "entities": [
+    "DIE039938-RIJKS",
+    "DIE039938-RIJKS",
+    "RIJ038642-RIJKS",
+    "0000"
+  ]
+}

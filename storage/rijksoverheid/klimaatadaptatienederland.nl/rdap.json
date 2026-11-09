@@ -1,0 +1,20 @@
+{
+  "observed_at": "2026-11-09T11:02:15+00:00",
+  "domain": "klimaatadaptatienederland.nl",
+  "ldhName": "klimaatadaptatienederland.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "ns0.rijksoverheidnl.com",
+    "ns1.rijksoverheidnl.nl",
+    "ns2.rijksoverheidnl.eu",
+    "ns3.rijksoverheidnl.org"
+  ],
+  "entities": [
+    "RIJ031105-RIJKS",
+    "DIE020959-RIJKS",
+    "DIE020959-RIJKS",
+    "0000"
+  ]
+}

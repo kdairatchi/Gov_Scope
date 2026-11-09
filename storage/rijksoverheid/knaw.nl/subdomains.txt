@@ -7,11 +7,14 @@ aboutme.jauco.playground.di.huc.knaw.nl
 acc.adminpure.knaw.nl
 acc.api.knaw.nl
 acc.cms21.knaw.nl
+acc.di.huc.knaw.nl
 acc.knaw.nl
 acc.pergamon.huygens.knaw.nl
 acc.resources.huygens.knaw.nl
 access.huc.knaw.nl
+account.dans.knaw.nl
 account.knaw.nl
+achterdeschermen.huygens.knaw.nl
 act.gharvester-oai.dans.knaw.nl
 act.gharvester-wcp.dans.knaw.nl
 act.resolver.dans.knaw.nl
@@ -26,6 +29,7 @@ adpqlikview.knaw.nl
 af.huygens.knaw.nl
 ai-similia.labs.dans.knaw.nl
 ai-tool-a.test.ib.knaw.nl
+ai-tool-b.ib.knaw.nl
 ai-tool-b.test.ib.knaw.nl
 ai.nioo.knaw.nl
 ai.test.nioo.knaw.nl
@@ -61,6 +65,8 @@ archief2011.meertens.knaw.nl
 archieven.meertens.knaw.nl
 arrestanten40-45.niod.knaw.nl
 art-of-reasoning.huygens.knaw.nl
+artistletters.dev.huygens.knaw.nl
+artistletters.huygens.knaw.nl
 artursdoet.huygens.knaw.nl
 athena.huygens.knaw.nl
 ats-intern.knaw.nl
@@ -113,6 +119,7 @@ bgb.resources.huygens.knaw.nl
 bia.huygens.knaw.nl
 bibliotheek.meertens.knaw.nl
 biland.huygens.knaw.nl
+bioinf-open-day.nioo.knaw.nl
 bioinf.nioo.knaw.nl
 bitwarden.knaw.nl
 bnm-i.huygens.knaw.nl
@@ -142,12 +149,15 @@ certificaten.knaw.nl
 certificates.knaw.nl
 charriere.huygens.knaw.nl
 charterbank.huygens.knaw.nl
+chat.nioo.knaw.nl
 chat.test.nioo.knaw.nl
 ci.di.huc.knaw.nl
 ckcc.huygens.knaw.nl
 climatepursuit.nioo.knaw.nl
 cloud.knaw.nl
+cloud.nioo.knaw.nl
 cloud.test.nioo.knaw.nl
+clusius.huygens.knaw.nl
 clusiuscorrespondence.huygens.knaw.nl
 clusiuscorrespondence2.huygens.knaw.nl
 cmdi.dev.huc.knaw.nl
@@ -168,6 +178,7 @@ da.dans.knaw.nl
 dans.idp.knaw.nl
 dans.knaw.nl
 darkarchive.dans.knaw.nl
+dashboard.dans.knaw.nl
 data.globalise.huygens.knaw.nl
 data.huygens.knaw.nl
 data.suriano.huygens.knaw.nl
@@ -179,6 +190,7 @@ dataset-search.resources.huygens.knaw.nl
 datavault.dans.knaw.nl
 dataverse-date-updater.labs.dans.knaw.nl
 dataverse-fetcher.labs.dans.knaw.nl
+dataverse-fetchera.labs.dans.knaw.nl
 dataverse-importer.labs.dans.knaw.nl
 dataverse-mapper.labs.dans.knaw.nl
 dataverse.dans.knaw.nl
@@ -211,6 +223,7 @@ diddd.meertens.knaw.nl
 digitalforensics.huygens.knaw.nl
 diplomatieke-getuigenissen.huygens.knaw.nl
 directory.huc.knaw.nl
+dmp.nioo.knaw.nl
 dmp.test.nioo.knaw.nl
 docker11-iisg.knaw.nl
 docker21-iisg.knaw.nl
@@ -251,6 +264,7 @@ edition.suriano.huygens.knaw.nl
 elaborate-editions.huygens.knaw.nl
 elaborate.huygens.knaw.nl
 elastic-prd01.dans.knaw.nl
+elasticsearch.sd-infra.di.huc.knaw.nl
 emailsanitizer.labs.dans.knaw.nl
 epistolarium.huygens.knaw.nl
 eprints02.knaw.nl
@@ -269,12 +283,14 @@ faireva.labs.dans.knaw.nl
 fairevaapi.labs.dans.knaw.nl
 faweb.fa.knaw.nl
 filetypevalidator.labs.dans.knaw.nl
+filetypevalidator9.labs.dans.knaw.nl
 flat.meertens.knaw.nl
 flippinglakes.nioo.knaw.nl
 flow.labs.dans.knaw.nl
 fm61.meertens.knaw.nl
 fm62.meertens.knaw.nl
 fm63.dans.knaw.nl
+forms.dans.knaw.nl
 fortuyn.meertens.knaw.nl
 fotoarchief.bureau.knaw.nl
 francodevrije.huygens.knaw.nl
@@ -285,6 +301,7 @@ fryske1.fa.knaw.nl
 fryske2.fa.knaw.nl
 fuseki.zandbak.dans.knaw.nl
 ga-wp3.sd.di.huc.knaw.nl
+ga.sd.di.huc.knaw.nl
 galaxy.bioinf.nioo.knaw.nl
 gbs-server.bureau.knaw.nl
 gbs.client.bureau.knaw.nl
@@ -305,6 +322,7 @@ globalise-refdata.huc.knaw.nl
 globalise.huygens.knaw.nl
 globhut.labs.dans.knaw.nl
 goetgevonden.huygens.knaw.nl
+goldenagentsdata.huygens.knaw.nl
 goudeneeuwblog.huygens.knaw.nl
 graph-qlever.sd.di.huc.knaw.nl
 graph.sd.di.huc.knaw.nl
@@ -371,6 +389,7 @@ huygens.idp.knaw.nl
 huygens.knaw.nl
 huygensinstituut.knaw.nl
 hybrid.knaw.nl
+iam.nioo.knaw.nl
 ib-test-srv01.ib.knaw.nl
 ib-tools-srv01.ib.knaw.nl
 id.zandbak.dans.knaw.nl
@@ -396,6 +415,7 @@ intranet.huc.knaw.nl
 intranet.knaw.nl
 intranet.nin.knaw.nl
 inventaris.huygens.knaw.nl
+isidore.sd.di.huc.knaw.nl
 ivanticsa01.knaw.nl
 ivanticsa31.knaw.nl
 ix.bureau.knaw.nl
@@ -410,6 +430,7 @@ kc31.dans.knaw.nl
 kemp-ebs-a.knaw.nl
 kemp-ebs-c.knaw.nl
 kemp-ebs-o.knaw.nl
+kemp-ebs-t.knaw.nl
 kemp-maximizer.knaw.nl
 kemp-nagios.knaw.nl
 kemp-owa.knaw.nl
@@ -420,6 +441,7 @@ kemp-workforce.knaw.nl
 keur.knaw.nl
 keycloak.dans.knaw.nl
 kg.zandbak.dans.knaw.nl
+kibana.sd-infra.di.huc.knaw.nl
 kitlv.idp.knaw.nl
 kitlvedg01.kitlv.knaw.nl
 kloeke.meertens.knaw.nl
@@ -516,12 +538,19 @@ macgw98.meertens.knaw.nl
 macgw99.meertens.knaw.nl
 macu1.meertens.knaw.nl
 macu2.meertens.knaw.nl
+macu38.meertens.knaw.nl
 macu40.meertens.knaw.nl
+mail.ci.di.huc.knaw.nl
+mail.dev.huc.knaw.nl
+mail.im.di.huc.knaw.nl
 mail.nin.knaw.nl
+mail.sd-infra.di.huc.knaw.nl
+mail.tt.di.huc.knaw.nl
 mailbuddy.test.ib.knaw.nl
 mailrelay.knaw.nl
 maisflexis.niod.knaw.nl
 mand.meertens.knaw.nl
+mantis.test.ib.knaw.nl
 maps.fa.knaw.nl
 mapserver.fa.knaw.nl
 mapserver.huc.knaw.nl
@@ -534,6 +563,7 @@ maven.huygens.knaw.nl
 maximizer.rathenau.knaw.nl
 mcmnioocmg.nioo.knaw.nl
 mda.nioo.knaw.nl
+mechteldvangelre.huygens.knaw.nl
 medievalireland.huygens.knaw.nl
 meertens-router.meertens.knaw.nl
 meertens.idp.knaw.nl
@@ -575,6 +605,7 @@ myadmin.huc.knaw.nl
 myapps.knaw.nl
 mysql.dans.knaw.nl
 mysql12.meertens.knaw.nl
+mysql21.dans.knaw.nl
 narcis01.dans.knaw.nl
 nationalaccounts.niwi.knaw.nl
 ncg.knaw.nl
@@ -630,6 +661,7 @@ odb.huc.knaw.nl
 office365.knaw.nl
 ogier.huygens.knaw.nl
 ohs31.dans.knaw.nl
+old.huc.knaw.nl
 ollama.zandbak.dans.knaw.nl
 omnivista.knaw.nl
 omnivista31.knaw.nl
@@ -902,6 +934,7 @@ phpmyadmin.wordpress.dans.knaw.nl
 pland.meertens.knaw.nl
 planning.jauco.playground.di.huc.knaw.nl
 podium.knaw.nl
+portainer.ib.knaw.nl
 portainer.test.ib.knaw.nl
 portal.knaw.nl
 portal.sciencefunds.knaw.nl
@@ -915,6 +948,7 @@ privilege.huc.knaw.nl
 prizepapers.huygens.knaw.nl
 prod.timbuctoo.red.huygens.knaw.nl
 projecten.meertens.knaw.nl
+projects.pages.bioinf.nioo.knaw.nl
 promise.nioo.knaw.nl
 provenance.dev.huc.knaw.nl
 pts31.dans.knaw.nl
@@ -930,6 +964,7 @@ rc01.dh.huc.knaw.nl
 rc02.dh.huc.knaw.nl
 rc03.dh.huc.knaw.nl
 rd.di.huc.knaw.nl
+rda-prd01.dans.knaw.nl
 rds.knaw.nl
 rds.nioo.knaw.nl
 rds7.knaw.nl
@@ -946,6 +981,7 @@ rdswa.knaw.nl
 rdswa61.knaw.nl
 rdswa7.knaw.nl
 rdswa71.knaw.nl
+reception.nioo.knaw.nl
 redmineaf.huygens.knaw.nl
 registrar.labs.dans.knaw.nl
 registry.huc.knaw.nl
@@ -982,6 +1018,7 @@ romanvanwalewein.huygens.knaw.nl
 rooswijk.huygens.knaw.nl
 router.meertens.knaw.nl
 rso.test.nioo.knaw.nl
+rss.test.ib.knaw.nl
 rssfeeds.huc.knaw.nl
 s3.knaw.nl
 s3.zandbak.dans.knaw.nl
@@ -997,6 +1034,7 @@ satifyd.dans.knaw.nl
 sc-adfs.spinozacentre.knaw.nl
 sc-webserver-001.nin.knaw.nl
 scope.nin.knaw.nl
+sd-infra.di.huc.knaw.nl
 sd-skosmos.dev.huc.knaw.nl
 sd-yugoslavia.dev.huc.knaw.nl
 sd.di.huc.knaw.nl
@@ -1013,8 +1051,10 @@ services.gmh.dans.knaw.nl
 shebanq.huc.knaw.nl
 skosmos.zandbak.dans.knaw.nl
 slave1.darenet.knaw.nl
+socialeveiligheid.knaw.nl
 soilpros.nioo.knaw.nl
 solr.zandbak.dans.knaw.nl
+sparkles.nioo.knaw.nl
 sparql.zandbak.dans.knaw.nl
 spibirds.nioo-preprod.knaw.nl
 spinner.knaw.nl
@@ -1030,6 +1070,7 @@ staging.meertens.knaw.nl
 stats.dans.knaw.nl
 stats.knaw.nl
 status.dans.knaw.nl
+stedelijkwater.wateropdekaart.nioo.knaw.nl
 stilletochten.meertens.knaw.nl
 storage.knaw.nl
 storage.labs.dans.knaw.nl
@@ -1072,6 +1113,7 @@ taoracledb23.knaw.nl
 taoracleoem21.knaw.nl
 taoraclesso31.knaw.nl
 tar31.dans.knaw.nl
+tastade.app.atlas.huc.knaw.nl
 tc13.huygens.knaw.nl
 tdd31.dans.knaw.nl
 tdvnl.dans.knaw.nl
@@ -1079,6 +1121,7 @@ tdvnl31.dans.knaw.nl
 teamcity.dev.huc.knaw.nl
 test.adminpure.knaw.nl
 test.alexandria.huygens.knaw.nl
+test.bioport.huygens.knaw.nl
 test.did.zandbak.dans.knaw.nl
 test.huygens.knaw.nl
 test.meertens.knaw.nl
@@ -1106,6 +1149,7 @@ timetell.knaw.nl
 tjalie-robinson.huygens.knaw.nl
 tkemp01.knaw.nl
 tmfiles.knaw.nl
+tntl.huygens.knaw.nl
 tod.dans.knaw.nl
 todo.nin.knaw.nl
 tomcat.tiler01.huygens.knaw.nl
@@ -1152,10 +1196,12 @@ vgstat11.huygens.knaw.nl
 vgtile11.huygens.knaw.nl
 videoconf.knaw.nl
 videoconf02.knaw.nl
+view.herseninstituut.knaw.nl
 view.nin.knaw.nl
 vocabularies.dans.knaw.nl
 voornamen.meertens.knaw.nl
 vova.meertens.knaw.nl
+voxdoc.di.huc.knaw.nl
 vpn.knaw.nl
 vragenlijstenbank.meertens.knaw.nl
 vtb.meertens.knaw.nl
@@ -1228,9 +1274,11 @@ wp-17.dev.huc.knaw.nl
 www.aon.nin.knaw.nl
 www.back2roots.nioo.knaw.nl
 www.benjamin.nin.knaw.nl
+www.ci.di.huc.knaw.nl
 www.climatepursuit.nioo.knaw.nl
 www.dans.knaw.nl
 www.de-diepte.nioo.knaw.nl
+www.dev.huc.knaw.nl
 www.dwc.knaw.nl
 www.easy.dans.knaw.nl
 www.elaborate.huygens.knaw.nl
@@ -1240,6 +1288,7 @@ www.grotius.huygens.knaw.nl
 www.huc.knaw.nl
 www.huygens.knaw.nl
 www.huygensinstituut.knaw.nl
+www.im.di.huc.knaw.nl
 www.imlc.huygens.knaw.nl
 www.intranet.knaw.nl
 www.knaw.nl
@@ -1250,15 +1299,19 @@ www.meertens.knaw.nl
 www.monarchy-in-turmoil.huygens.knaw.nl
 www.nias.knaw.nl
 www.nin.knaw.nl
+www.nioo-preprod.knaw.nl
 www.nioo.knaw.nl
 www.oroc.knaw.nl
 www.podium.knaw.nl
 www.promise.nioo.knaw.nl
+www.registrar.labs.dans.knaw.nl
 www.rooswijk.huygens.knaw.nl
 www.scope.nin.knaw.nl
+www.sd-infra.di.huc.knaw.nl
 www.soilpros.nioo.knaw.nl
 www.staging.huygens.knaw.nl
 www.travellingtexts.huygens.knaw.nl
+www.tt.di.huc.knaw.nl
 www.verwer.nin.knaw.nl
 www.waleweinendekeye.huygens.knaw.nl
 www.wateropdekaart.nioo.knaw.nl

@@ -1,0 +1,17 @@
+{
+  "observed_at": "2026-11-09T11:07:19+00:00",
+  "domain": "lbio.nl",
+  "ldhName": "lbio.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "ns1.bhosted.nl",
+    "ns4.bhosted.nl"
+  ],
+  "entities": [
+    "AFD002296-BHONL",
+    "AFD002296-BHONL",
+    "0000"
+  ]
+}
