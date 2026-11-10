@@ -1,0 +1,20 @@
+{
+  "observed_at": "2026-11-10T10:55:21+00:00",
+  "domain": "masterplanbasisvaardigheden.nl",
+  "ldhName": "masterplanbasisvaardigheden.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "ns0.rijksoverheidnl.com",
+    "ns1.rijksoverheidnl.nl",
+    "ns2.rijksoverheidnl.eu",
+    "ns3.rijksoverheidnl.org"
+  ],
+  "entities": [
+    "RIJ038642-RIJKS",
+    "DIE037765-RIJKS",
+    "DIE037765-RIJKS",
+    "0000"
+  ]
+}

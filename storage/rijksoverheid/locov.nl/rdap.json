@@ -1,0 +1,20 @@
+{
+  "observed_at": "2026-11-10T10:50:51+00:00",
+  "domain": "locov.nl",
+  "ldhName": "locov.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "ns0.rijksoverheidnl.com",
+    "ns1.rijksoverheidnl.nl",
+    "ns2.rijksoverheidnl.eu",
+    "ns3.rijksoverheidnl.org"
+  ],
+  "entities": [
+    "RIJ031105-RIJKS",
+    "DIE020959-RIJKS",
+    "DIE020959-RIJKS",
+    "0000"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "observed_at": "2026-11-10T10:49:42+00:00",
+  "domain": "limburg.nl",
+  "ldhName": "limburg.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "authent.prvlimburg.nl",
+    "authent2.prvlimburg.nl",
+    "ns1.prvlimburg.nl"
+  ],
+  "entities": [
+    "SYS006129-PRVLI",
+    "SYS006129-PRVLI",
+    "PRO117715-PRVLI",
+    "0000"
+  ]
+}

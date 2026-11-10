@@ -1,5 +1,7 @@
 atlas.limburg.nl
 connect-with.limburg.nl
+eloket-acc.limburg.nl
+eloket.limburg.nl
 formulieren.limburg.nl
 geoserver.limburg.nl
 id.limburg.nl

@@ -1,5 +1,6 @@
 _dmarc.logius.nl
 aansluitsuite.acceptatie.digipoort.logius.nl
+aansluitsuite.preproductie.digipoort.logius.nl
 acc-dictu.comcms.logius.nl
 acc-dictu.kennisbank.logius.nl
 acc-dictu.logius.nl
@@ -21,6 +22,8 @@ belastingdienst.data.logius.nl
 bvd-pre.mev.logius.nl
 bvd.logius.nl
 bvd.mev.logius.nl
+bwbredactie-acc.logius.nl
+bwbredactie-tst.logius.nl
 ca-devportal-pre.logius.nl
 ca-devportal-tst.logius.nl
 ca-devportal.logius.nl
@@ -94,7 +97,9 @@ iam-containerplatform.logius.nl
 iam-containerplatform.lpc.logius.nl
 idp-dgp.digipoort.logius.nl
 idp-dgp.preproductie.digipoort.logius.nl
+idp.preproductie.digipoort.logius.nl
 intrekkingsportaal.acceptatie.digipoort.logius.nl
+intrekkingsportaal.digipoort.logius.nl
 intrekkingsportaal.preproductie.digipoort.logius.nl
 kennisbank.logius.nl
 kibana-prod.lpc.logius.nl
@@ -115,8 +120,10 @@ mijntokenactiveren.logius.nl
 msp-a.logius.nl
 nexus.lpc.logius.nl
 oinregister.logius.nl
+openproject-poc.logius.nl
 pmz-pre.logius.nl
 pmz.logius.nl
+portaal.digipoort.logius.nl
 portalen.acceptatie.digipoort.logius.nl
 portalen.preproductie.digipoort.logius.nl
 preprod-machtigen.digipoort.logius.nl
@@ -129,6 +136,7 @@ rvmetadata.logius.nl
 sb-dictu.logius.nl
 soap2007.digipoort.logius.nl
 soap2007.preproductie.digipoort.logius.nl
+social.logius.nl
 sonarqube.lpc.logius.nl
 std-cmdb-acc.logius.nl
 stelselcatalogus.logius.nl

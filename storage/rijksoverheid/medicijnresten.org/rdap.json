@@ -1,0 +1,17 @@
+{
+  "observed_at": "2026-11-10T10:56:31+00:00",
+  "domain": "medicijnresten.org",
+  "ldhName": "medicijnresten.org",
+  "status": [
+    "client transfer prohibited",
+    "auto renew period"
+  ],
+  "nameservers": [
+    "ns0.transip.net",
+    "ns1.transip.nl",
+    "ns2.transip.eu"
+  ],
+  "entities": [
+    "269"
+  ]
+}

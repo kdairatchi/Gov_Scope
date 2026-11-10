@@ -1,0 +1,20 @@
+{
+  "observed_at": "2026-11-10T10:49:59+00:00",
+  "domain": "lexces.nl",
+  "ldhName": "lexces.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "ns1.ssc-campus.nl",
+    "ns1.w-e-r-k.nl",
+    "ns2.ssc-campus.nl",
+    "ns2.w-e-r-k.nl"
+  ],
+  "entities": [
+    "DIE039938-RIJKS",
+    "DIE039938-RIJKS",
+    "RIJ038642-RIJKS",
+    "0000"
+  ]
+}

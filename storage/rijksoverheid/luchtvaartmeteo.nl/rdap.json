@@ -1,0 +1,21 @@
+{
+  "observed_at": "2026-11-10T10:52:54+00:00",
+  "domain": "luchtvaartmeteo.nl",
+  "ldhName": "luchtvaartmeteo.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "ns-1016.awsdns-63.net",
+    "ns-1253.awsdns-28.org",
+    "ns-1736.awsdns-25.co.uk",
+    "ns-22.awsdns-02.com"
+  ],
+  "entities": [
+    "KON002762-SURFN",
+    "SUR002282-SURFN",
+    "KON002762-SURFN",
+    "JAN097258-SURFN",
+    "0000"
+  ]
+}

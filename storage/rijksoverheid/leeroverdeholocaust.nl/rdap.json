@@ -1,13 +1,15 @@
 {
-  "observed_at": "2026-11-09T11:10:27+00:00",
+  "observed_at": "2026-11-10T10:47:30+00:00",
   "domain": "leeroverdeholocaust.nl",
   "ldhName": "leeroverdeholocaust.nl",
   "status": [
     "active"
   ],
   "nameservers": [
-    "bingo.ns.cloudflare.com",
-    "cris.ns.cloudflare.com"
+    "ns1-07.azure-dns.com",
+    "ns2-07.azure-dns.net",
+    "ns3-07.azure-dns.org",
+    "ns4-07.azure-dns.info"
   ],
   "entities": [
     "DIE039938-RIJKS",
