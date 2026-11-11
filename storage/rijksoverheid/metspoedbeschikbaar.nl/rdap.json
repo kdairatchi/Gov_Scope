@@ -1,0 +1,20 @@
+{
+  "observed_at": "2026-11-11T10:19:17+00:00",
+  "domain": "metspoedbeschikbaar.nl",
+  "ldhName": "metspoedbeschikbaar.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "ns-1512.awsdns-61.org",
+    "ns-1646.awsdns-13.co.uk",
+    "ns-444.awsdns-55.com",
+    "ns-753.awsdns-30.net"
+  ],
+  "entities": [
+    "DIE039938-RIJKS",
+    "DIE039938-RIJKS",
+    "RIJ038642-RIJKS",
+    "0000"
+  ]
+}

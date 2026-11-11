@@ -1,0 +1,19 @@
+{
+  "observed_at": "2026-11-11T10:24:41+00:00",
+  "domain": "minienw.nl",
+  "ldhName": "minienw.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "ns1.ssonet.nl",
+    "ns2.ssonet.nl",
+    "ns3.ssonet.nl"
+  ],
+  "entities": [
+    "RIJ031105-RIJKS",
+    "DIE020959-RIJKS",
+    "DIE020959-RIJKS",
+    "0000"
+  ]
+}

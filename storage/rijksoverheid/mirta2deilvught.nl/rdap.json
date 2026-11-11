@@ -1,0 +1,20 @@
+{
+  "observed_at": "2026-11-11T10:25:40+00:00",
+  "domain": "mirta2deilvught.nl",
+  "ldhName": "mirta2deilvught.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "ns1-06.azure-dns.com",
+    "ns2-06.azure-dns.net",
+    "ns3-06.azure-dns.org",
+    "ns4-06.azure-dns.info"
+  ],
+  "entities": [
+    "PRO085901-PRONB",
+    "PRO085901-PRONB",
+    "PRO085901-PRONB",
+    "0000"
+  ]
+}

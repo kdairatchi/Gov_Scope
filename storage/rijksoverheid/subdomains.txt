@@ -7521,6 +7521,7 @@ signing.ingelogd.mijnslachtofferzaak.nl
 signing.ingelogd.staging.mijnslachtofferzaak.nl
 www.mijnslachtofferzaak.nl
 acc.milieuzones.nl
+autodiscover.milieuzones.nl
 milieuzones.nl
 prod.milieuzones.nl
 test.milieuzones.nl
@@ -7657,6 +7658,7 @@ mimsmtp01.sapsmtp.minienm.nl
 mimsmtp02.sapsmtp.minienm.nl
 mimtbw.saphttp.minienm.nl
 mimtec.saphttp.minienm.nl
+mimxec.saphttp.minienm.nl
 mimxid.saphttp.minienm.nl
 mimxip.saphttp.minienm.nl
 mimxiq.saphttp.minienm.nl
@@ -7700,6 +7702,7 @@ acceptatie.grccontrol.minienw.nl
 adresgids2.minienw.nl
 bct.csp.minienw.nl
 bct.tsp.minienw.nl
+clicks.evenementen.minienw.nl
 cms.intranet.minienw.nl
 csp.minienw.nl
 evenementen.minienw.nl
@@ -7712,6 +7715,7 @@ gkas.horizon.minienw.nl
 intranet.minienw.nl
 intranet14.minienw.nl
 minienw.nl
+mnsw.minienw.nl
 mpn-acc.minienw.nl
 mpn-pre.minienw.nl
 mpn.minienw.nl
@@ -7731,6 +7735,7 @@ sip.minienw.nl
 sip.myroom.minienw.nl
 sp-prd.topdesk.minienw.nl
 tsp.minienw.nl
+web.minienw.nl
 werkbezoek.minienw.nl
 widscan-acc.minienw.nl
 www.minienw.nl

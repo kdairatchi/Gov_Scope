@@ -1,0 +1,20 @@
+{
+  "observed_at": "2026-11-11T10:20:10+00:00",
+  "domain": "microfoonbanden.nl",
+  "ldhName": "microfoonbanden.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "ns0.rijksoverheidnl.com",
+    "ns1.rijksoverheidnl.nl",
+    "ns2.rijksoverheidnl.eu",
+    "ns3.rijksoverheidnl.org"
+  ],
+  "entities": [
+    "DIE020959-RIJKS",
+    "RIJ031105-RIJKS",
+    "DIE020959-RIJKS",
+    "0000"
+  ]
+}

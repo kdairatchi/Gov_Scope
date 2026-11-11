@@ -1,0 +1,19 @@
+{
+  "observed_at": "2026-11-11T10:21:04+00:00",
+  "domain": "mijncyberrijbewijs.nl",
+  "ldhName": "mijncyberrijbewijs.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "ns0.transip.net",
+    "ns1.transip.nl",
+    "ns2.transip.eu"
+  ],
+  "entities": [
+    "STI263513-TRAIP",
+    "STI263514-TRAIP",
+    "0000",
+    "REDACTED-BY-SIDN"
+  ]
+}

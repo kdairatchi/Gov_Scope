@@ -1,0 +1,18 @@
+{
+  "observed_at": "2026-11-11T10:19:38+00:00",
+  "domain": "mi-cert.nl",
+  "ldhName": "mi-cert.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "ns1.dictu.nl",
+    "ns2.dictu.nl"
+  ],
+  "entities": [
+    "DIE020959-RIJKS",
+    "RIJ031105-RIJKS",
+    "DIE020959-RIJKS",
+    "0000"
+  ]
+}

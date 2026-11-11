@@ -1,0 +1,18 @@
+{
+  "observed_at": "2026-11-11T10:22:08+00:00",
+  "domain": "mijnkombijdepolitie.nl",
+  "ldhName": "mijnkombijdepolitie.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "ns1.premium-dns.net",
+    "ns2.premium-dns.net"
+  ],
+  "entities": [
+    "POL026392-METAR",
+    "POL026393-METAR",
+    "POL026393-METAR",
+    "0000"
+  ]
+}
