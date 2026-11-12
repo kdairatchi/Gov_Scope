@@ -1,4 +1,5 @@
 acceptatie-melvin.ndw.nu
+admin.ndw.nu
 ams-closures.ndw.nu
 analytics.ndw.nu
 analytics.staging.ndw.nu
@@ -6,17 +7,20 @@ auth.ndw.nu
 autodiscover.ndw.nu
 backbone.ndw.nu
 backbone.staging.ndw.nu
+beeldmateriaal.ndw.nu
 bereikbaarheid.ndw.nu
 bereikbaarheid.staging.ndw.nu
 budgy.ndw.nu
 caas.ndw.nu
 cbm.ndw.nu
 cms-info.ndw.nu
+codi.ndw.nu
 d2val.staging.ndw.nu
 dafne.ndw.nu
 daisi.ndw.nu
 dashboards.ndw.nu
 dashboards.staging.ndw.nu
+data-backoffice.ndw.nu
 data-streamer.ndw.nu
 data.ndw.nu
 data.staging.ndw.nu
@@ -72,6 +76,7 @@ ntm.ndw.nu
 ntm.staging.ndw.nu
 opendata-ref.ndw.nu
 opendata.ndw.nu
+panoramax.ndw.nu
 pdc.ndw.nu
 pm-bounces.ndw.nu
 put-kpi-dashboard.ndw.nu
@@ -80,6 +85,7 @@ realtime.staging.ndw.nu
 reistijdtrajecten.ndw.nu
 routeradar.ndw.nu
 rt.ndw.nu
+s-webclient.ndw.nu
 s.ndw.nu
 security.ndw.nu
 sentry.ndw.nu

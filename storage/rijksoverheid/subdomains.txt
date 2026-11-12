@@ -7924,6 +7924,7 @@ www.mycoa.nl
 n3werkzaamheden.nl
 www.n3werkzaamheden.nl
 elearning.naarnederland.nl
+english.naarnederland.nl
 mail.naarnederland.nl
 naarnederland.nl
 www.naarnederland.nl
@@ -7976,6 +7977,8 @@ nextdrive.nationaalarchief.nl
 onderwijs.nationaalarchief.nl
 oranjehotel.nationaalarchief.nl
 placeholder.nationaalarchief.nl
+portal.overbrengen.nationaalarchief.nl
+portal.overbrengen.ted.nationaalarchief.nl
 prod.nationaalarchief.nl
 pywb-warc-check.acpt.nationaalarchief.nl
 pywb.acpt.nationaalarchief.nl
@@ -8010,6 +8013,7 @@ ad.nlemail.awareness.nationaalcoordinatorgroningen.nl
 aip-acc.nationaalcoordinatorgroningen.nl
 aip.nationaalcoordinatorgroningen.nl
 e.awareness.nationaalcoordinatorgroningen.nl
+gin-acc.nationaalcoordinatorgroningen.nl
 intranet-prod.nationaalcoordinatorgroningen.nl
 intranet.nationaalcoordinatorgroningen.nl
 jet-acc.nationaalcoordinatorgroningen.nl
@@ -8021,6 +8025,7 @@ zakelijk-acc.nationaalcoordinatorgroningen.nl
 zakelijk.nationaalcoordinatorgroningen.nl
 nationaalgroeifonds.nl
 www.nationaalgroeifonds.nl
+f071.nationaalinnovatieloketveehouderij.nl
 nationaalinnovatieloketveehouderij.nl
 www.nationaalinnovatieloketveehouderij.nl
 nationaalmilieuprogramma.nl
@@ -8052,6 +8057,8 @@ autodiscover.nationaleombudsman.nl
 jaarverslag.nationaleombudsman.nl
 mta-sts.nationaleombudsman.nl
 nationaleombudsman.nl
+pop.nationaleombudsman.nl
+smtp.nationaleombudsman.nl
 vragenlijst.nationaleombudsman.nl
 www.nationaleombudsman.nl
 _autodiscover._tcp.natura2000.nl
@@ -8106,6 +8113,8 @@ dmarcreport.ncsc.nl
 english.ncsc.nl
 feeds.english.ncsc.nl
 feeds.ncsc.nl
+flash-reports.acc.ncsc.nl
+flash-reports.ncsc.nl
 gl-acc.ncsc.nl
 gl.ncsc.nl
 gl1.ncsc.nl
@@ -8182,6 +8191,7 @@ symbolenbank.nctv.nl
 toolbox-extremisme.nctv.nl
 www.nctv.nl
 acceptatie-melvin.ndw.nu
+admin.ndw.nu
 ams-closures.ndw.nu
 analytics.ndw.nu
 analytics.staging.ndw.nu
@@ -8189,17 +8199,20 @@ auth.ndw.nu
 autodiscover.ndw.nu
 backbone.ndw.nu
 backbone.staging.ndw.nu
+beeldmateriaal.ndw.nu
 bereikbaarheid.ndw.nu
 bereikbaarheid.staging.ndw.nu
 budgy.ndw.nu
 caas.ndw.nu
 cbm.ndw.nu
 cms-info.ndw.nu
+codi.ndw.nu
 d2val.staging.ndw.nu
 dafne.ndw.nu
 daisi.ndw.nu
 dashboards.ndw.nu
 dashboards.staging.ndw.nu
+data-backoffice.ndw.nu
 data-streamer.ndw.nu
 data.ndw.nu
 data.staging.ndw.nu
@@ -8255,6 +8268,7 @@ ntm.ndw.nu
 ntm.staging.ndw.nu
 opendata-ref.ndw.nu
 opendata.ndw.nu
+panoramax.ndw.nu
 pdc.ndw.nu
 pm-bounces.ndw.nu
 put-kpi-dashboard.ndw.nu
@@ -8263,6 +8277,7 @@ realtime.staging.ndw.nu
 reistijdtrajecten.ndw.nu
 routeradar.ndw.nu
 rt.ndw.nu
+s-webclient.ndw.nu
 s.ndw.nu
 security.ndw.nu
 sentry.ndw.nu

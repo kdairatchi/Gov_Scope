@@ -1,0 +1,18 @@
+{
+  "observed_at": "2026-11-12T10:51:31+00:00",
+  "domain": "nationaleombudsman.nl",
+  "ldhName": "nationaleombudsman.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "ns1.swis.nl",
+    "ns2.swis.nl"
+  ],
+  "entities": [
+    "SLA004422-SWISB",
+    "KLE009811-SWISB",
+    "DEN000159-SWISB",
+    "0000"
+  ]
+}

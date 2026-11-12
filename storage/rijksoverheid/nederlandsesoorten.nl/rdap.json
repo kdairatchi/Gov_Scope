@@ -1,0 +1,19 @@
+{
+  "observed_at": "2026-11-12T10:56:47+00:00",
+  "domain": "nederlandsesoorten.nl",
+  "ldhName": "nederlandsesoorten.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "ns-1205.awsdns-22.org",
+    "ns-1944.awsdns-51.co.uk",
+    "ns-459.awsdns-57.com",
+    "ns-833.awsdns-40.net"
+  ],
+  "entities": [
+    "MDE009811-GANDS",
+    "MDE009811-GANDS",
+    "0000"
+  ]
+}
