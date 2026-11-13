@@ -1,0 +1,20 @@
+{
+  "observed_at": "2026-11-13T10:46:46+00:00",
+  "domain": "nieuwstembiljet.nl",
+  "ldhName": "nieuwstembiljet.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "ns-1003.awsdns-61.net",
+    "ns-118.awsdns-14.com",
+    "ns-1533.awsdns-63.org",
+    "ns-1591.awsdns-06.co.uk"
+  ],
+  "entities": [
+    "DIE039938-RIJKS",
+    "DIE039938-RIJKS",
+    "RIJ038642-RIJKS",
+    "0000"
+  ]
+}

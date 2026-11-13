@@ -8391,6 +8391,7 @@ acceptatie.nipv.nl
 acceptatie.wvsv.nipv.nl
 archief.acceptatie.nipv.nl
 archief.nipv.nl
+autodiscover.nipv.nl
 beheer-tgv-acceptatie.nipv.nl
 beheer-tgv-test.nipv.nl
 beheer-tgv.nipv.nl
@@ -8467,6 +8468,8 @@ www.acc.nldoc.nl
 www.acc2.nldoc.nl
 www.nldoc.nl
 www.rke2.nldoc.nl
+0q0bh2hf634sqap32nj40e3p16d8rqhd.nlflag.nl
+123-nonexistant-dnsjedi-456.nlflag.nl
 nlflag.nl
 www.nlflag.nl
 nlinfrankrijk.nl

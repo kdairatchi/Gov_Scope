@@ -1,0 +1,20 @@
+{
+  "observed_at": "2026-11-13T10:45:22+00:00",
+  "domain": "nieuwsbriefrechtspraak.nl",
+  "ldhName": "nieuwsbriefrechtspraak.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "ns0.transip.net",
+    "ns1.transip.nl",
+    "ns2.transip.eu"
+  ],
+  "entities": [
+    "COR053144-TRAIP",
+    "COR053145-TRAIP",
+    "COR053146-TRAIP",
+    "0000",
+    "REDACTED-BY-SIDN"
+  ]
+}

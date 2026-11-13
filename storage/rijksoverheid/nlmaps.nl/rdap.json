@@ -1,0 +1,18 @@
+{
+  "observed_at": "2026-11-13T10:51:45+00:00",
+  "domain": "nlmaps.nl",
+  "ldhName": "nlmaps.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "ns0017.secondary.cloudflare.com",
+    "ns0175.secondary.cloudflare.com"
+  ],
+  "entities": [
+    "LUI002139-CAPGE",
+    "DIE026678-CAPGE",
+    "DAR007081-CAPGE",
+    "0000"
+  ]
+}

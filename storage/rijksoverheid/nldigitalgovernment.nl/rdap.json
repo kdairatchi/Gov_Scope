@@ -1,0 +1,20 @@
+{
+  "observed_at": "2026-11-13T10:49:58+00:00",
+  "domain": "nldigitalgovernment.nl",
+  "ldhName": "nldigitalgovernment.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "ns-1018.awsdns-63.net",
+    "ns-1402.awsdns-47.org",
+    "ns-1933.awsdns-49.co.uk",
+    "ns-66.awsdns-08.com"
+  ],
+  "entities": [
+    "DIE039938-RIJKS",
+    "DIE039938-RIJKS",
+    "RIJ038642-RIJKS",
+    "0000"
+  ]
+}

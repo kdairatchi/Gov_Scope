@@ -1,0 +1,17 @@
+{
+  "observed_at": "2026-11-13T10:52:48+00:00",
+  "domain": "nlplatform.com",
+  "ldhName": "NLPLATFORM.COM",
+  "status": [
+    "client transfer prohibited"
+  ],
+  "nameservers": [
+    "ns0.rijksoverheidnl.com",
+    "ns1.rijksoverheidnl.nl",
+    "ns2.rijksoverheidnl.eu",
+    "ns3.rijksoverheidnl.org"
+  ],
+  "entities": [
+    "1647"
+  ]
+}

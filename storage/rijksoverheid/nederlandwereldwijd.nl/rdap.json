@@ -1,0 +1,22 @@
+{
+  "observed_at": "2026-11-13T10:43:30+00:00",
+  "domain": "nederlandwereldwijd.nl",
+  "ldhName": "nederlandwereldwijd.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "a1-22.akam.net",
+    "a16-65.akam.net",
+    "a2-67.akam.net",
+    "a6-65.akam.net",
+    "a7-66.akam.net",
+    "a9-66.akam.net"
+  ],
+  "entities": [
+    "RIJ031105-RIJKS",
+    "DIE020959-RIJKS",
+    "DIE020959-RIJKS",
+    "0000"
+  ]
+}

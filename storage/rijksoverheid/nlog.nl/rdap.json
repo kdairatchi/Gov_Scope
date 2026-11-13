@@ -1,0 +1,19 @@
+{
+  "observed_at": "2026-11-13T10:51:58+00:00",
+  "domain": "nlog.nl",
+  "ldhName": "nlog.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "nsauth1.introweb.nl",
+    "nsauth2.introweb.nl",
+    "nsauth3.introweb.net"
+  ],
+  "entities": [
+    "TNO000627-INTWN",
+    "SIT016060-INTWN",
+    "TNO000627-INTWN",
+    "0000"
+  ]
+}

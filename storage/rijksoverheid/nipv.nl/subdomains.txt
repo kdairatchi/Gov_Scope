@@ -2,6 +2,7 @@ acceptatie.nipv.nl
 acceptatie.wvsv.nipv.nl
 archief.acceptatie.nipv.nl
 archief.nipv.nl
+autodiscover.nipv.nl
 beheer-tgv-acceptatie.nipv.nl
 beheer-tgv-test.nipv.nl
 beheer-tgv.nipv.nl
