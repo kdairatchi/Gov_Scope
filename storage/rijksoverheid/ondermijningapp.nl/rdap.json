@@ -1,0 +1,18 @@
+{
+  "observed_at": "2026-11-14T09:58:32+00:00",
+  "domain": "ondermijningapp.nl",
+  "ldhName": "ondermijningapp.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "ns1.nicsell.com",
+    "ns2.nicsell.com"
+  ],
+  "entities": [
+    "DMI002807-CTH01",
+    "DMI002807-CTH01",
+    "HOY001001-CTH01",
+    "0000"
+  ]
+}

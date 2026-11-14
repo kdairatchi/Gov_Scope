@@ -1,0 +1,20 @@
+{
+  "observed_at": "2026-11-14T09:57:29+00:00",
+  "domain": "ofgv.nl",
+  "ldhName": "ofgv.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "ns1.openprovider.nl",
+    "ns2.openprovider.be",
+    "ns3.openprovider.eu"
+  ],
+  "entities": [
+    "OMG000410-OPENP",
+    "OMG000410-OPENP",
+    "JUN004525-OPENP",
+    "0000",
+    "REDACTED-BY-SIDN"
+  ]
+}

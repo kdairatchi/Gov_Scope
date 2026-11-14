@@ -1,0 +1,20 @@
+{
+  "observed_at": "2026-11-14T09:53:55+00:00",
+  "domain": "nunietzwanger.nl",
+  "ldhName": "nunietzwanger.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "ns1.argewebhosting.eu",
+    "ns2.argewebhosting.com",
+    "ns3.argewebhosting.nl"
+  ],
+  "entities": [
+    "STI207290-FIRST",
+    "HEE006083-FIRST",
+    "STI207290-FIRST",
+    "0000",
+    "REDACTED-BY-SIDN"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "observed_at": "2026-11-14T09:52:24+00:00",
+  "domain": "npkd.nl",
+  "ldhName": "npkd.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "a1-157.akam.net",
+    "a10-65.akam.net",
+    "a28-64.akam.net",
+    "a3-65.akam.net",
+    "a4-66.akam.net",
+    "a9-65.akam.net"
+  ],
+  "entities": [
+    "DIE037765-RIJKS",
+    "RIJ038642-RIJKS",
+    "DIE037765-RIJKS",
+    "0000"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "observed_at": "2026-11-14T09:55:48+00:00",
+  "domain": "odc-noord.nl",
+  "ldhName": "odc-noord.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "ns.gn2.rijkscloud.nl",
+    "ns.gn3.rijkscloud.nl",
+    "ns.rw1.rijkscloud.nl"
+  ],
+  "entities": [
+    "SUR002282-SURFN",
+    "DIE017131-SURFN",
+    "DIE017131-SURFN",
+    "DIE017131-SURFN",
+    "0000"
+  ]
+}

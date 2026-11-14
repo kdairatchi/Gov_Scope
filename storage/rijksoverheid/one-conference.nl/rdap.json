@@ -1,0 +1,23 @@
+{
+  "observed_at": "2026-11-14T10:00:32+00:00",
+  "domain": "one-conference.nl",
+  "ldhName": "one-conference.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "ns1.as41887.nl",
+    "ns2.as41887.eu",
+    "ns3.as41887.io",
+    "ns4.as41887.it"
+  ],
+  "entities": [
+    "REG003588-PROLO",
+    "DIJ008173-PROLO",
+    "BES001793-PROLO",
+    "STI284156-PROLO",
+    "STI284156-PROLO",
+    "STI284156-PROLO",
+    "0000"
+  ]
+}

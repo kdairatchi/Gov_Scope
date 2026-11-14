@@ -1,0 +1,20 @@
+{
+  "observed_at": "2026-11-14T09:55:44+00:00",
+  "domain": "odijmond.nl",
+  "ldhName": "odijmond.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "ns1.netaffairs.nl",
+    "ns2.netaffairs.com",
+    "ns3.netaffairs.com",
+    "ns4.netaffairs.nl"
+  ],
+  "entities": [
+    "DEI002331-OPENP",
+    "DEI002331-OPENP",
+    "WIM005912-OPENP",
+    "0000"
+  ]
+}

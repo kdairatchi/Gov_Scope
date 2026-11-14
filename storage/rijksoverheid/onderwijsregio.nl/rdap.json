@@ -1,0 +1,20 @@
+{
+  "observed_at": "2026-11-14T09:59:54+00:00",
+  "domain": "onderwijsregio.nl",
+  "ldhName": "onderwijsregio.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "ns0.rijksoverheidnl.com",
+    "ns1.rijksoverheidnl.nl",
+    "ns2.rijksoverheidnl.eu",
+    "ns3.rijksoverheidnl.org"
+  ],
+  "entities": [
+    "DIE039938-RIJKS",
+    "RIJ038642-RIJKS",
+    "DIE039938-RIJKS",
+    "0000"
+  ]
+}

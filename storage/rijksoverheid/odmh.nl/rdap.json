@@ -1,0 +1,21 @@
+{
+  "observed_at": "2026-11-14T09:56:00+00:00",
+  "domain": "odmh.nl",
+  "ldhName": "odmh.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "ns0.transip.net",
+    "ns1.transip.nl",
+    "ns2.transip.eu"
+  ],
+  "entities": [
+    "OMG000310-TRAIP",
+    "ODM000050-TRAIP",
+    "OMG000309-TRAIP",
+    "DSM000391-TRAIP",
+    "0000",
+    "REDACTED-BY-SIDN"
+  ]
+}

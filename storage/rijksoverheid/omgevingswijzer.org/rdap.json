@@ -1,0 +1,17 @@
+{
+  "observed_at": "2026-11-14T09:58:24+00:00",
+  "domain": "omgevingswijzer.org",
+  "ldhName": "omgevingswijzer.org",
+  "status": [
+    "client transfer prohibited"
+  ],
+  "nameservers": [
+    "ns0.rijksoverheidnl.com",
+    "ns1.rijksoverheidnl.nl",
+    "ns2.rijksoverheidnl.eu",
+    "ns3.rijksoverheidnl.org"
+  ],
+  "entities": [
+    "1647"
+  ]
+}
