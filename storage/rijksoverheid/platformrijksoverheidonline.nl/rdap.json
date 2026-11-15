@@ -1,0 +1,22 @@
+{
+  "observed_at": "2026-11-15T10:25:21+00:00",
+  "domain": "platformrijksoverheidonline.nl",
+  "ldhName": "platformrijksoverheidonline.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "a1-231.akam.net",
+    "a10-64.akam.net",
+    "a13-64.akam.net",
+    "a24-65.akam.net",
+    "a3-64.akam.net",
+    "a4-64.akam.net"
+  ],
+  "entities": [
+    "DIE020959-RIJKS",
+    "RIJ031105-RIJKS",
+    "DIE020959-RIJKS",
+    "0000"
+  ]
+}

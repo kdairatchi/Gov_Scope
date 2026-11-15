@@ -1,0 +1,22 @@
+{
+  "observed_at": "2026-11-15T10:24:40+00:00",
+  "domain": "parlement.nl",
+  "ldhName": "parlement.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "a1-191.akam.net",
+    "a12-66.akam.net",
+    "a28-64.akam.net",
+    "a3-66.akam.net",
+    "a4-65.akam.net",
+    "a7-66.akam.net"
+  ],
+  "entities": [
+    "RIJ038642-RIJKS",
+    "DIE037765-RIJKS",
+    "DIE037765-RIJKS",
+    "0000"
+  ]
+}

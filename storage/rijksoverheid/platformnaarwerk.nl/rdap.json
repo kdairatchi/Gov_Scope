@@ -1,0 +1,19 @@
+{
+  "observed_at": "2026-11-15T10:25:18+00:00",
+  "domain": "platformnaarwerk.nl",
+  "ldhName": "platformnaarwerk.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "ns1.combell.eu",
+    "ns3.combell.net",
+    "ns4.combell.net"
+  ],
+  "entities": [
+    "SUP000978-COMBL",
+    "DHA000115-COMBL",
+    "STI252022-COMBL",
+    "0000"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "observed_at": "2026-11-15T10:25:22+00:00",
+  "domain": "pns.nl",
+  "ldhName": "pns.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "ns1.ssc-campus.nl",
+    "ns1.surfnet.nl",
+    "ns2.ssc-campus.nl",
+    "ns2.surfnet.nl"
+  ],
+  "entities": [
+    "DIE039938-RIJKS",
+    "DIE039938-RIJKS",
+    "RIJ038642-RIJKS",
+    "0000"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "observed_at": "2026-11-15T10:23:14+00:00",
+  "domain": "ouders-uit-elkaar.nl",
+  "ldhName": "ouders-uit-elkaar.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "ns1.eurodns.com",
+    "ns2.eurodns.com",
+    "ns3.eurodns.com",
+    "ns4.eurodns.com"
+  ],
+  "entities": [
+    "ADL000341-EUDNS",
+    "RAD017804-EUDNS",
+    "RAD017805-EUDNS",
+    "0000"
+  ]
+}

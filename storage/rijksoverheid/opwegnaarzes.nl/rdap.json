@@ -1,0 +1,18 @@
+{
+  "observed_at": "2026-11-15T10:22:47+00:00",
+  "domain": "opwegnaarzes.nl",
+  "ldhName": "opwegnaarzes.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "alan.ns.cloudflare.com",
+    "rita.ns.cloudflare.com"
+  ],
+  "entities": [
+    "RIJ038642-RIJKS",
+    "DIE039938-RIJKS",
+    "DIE039938-RIJKS",
+    "0000"
+  ]
+}
