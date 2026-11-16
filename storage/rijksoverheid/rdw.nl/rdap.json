@@ -1,0 +1,22 @@
+{
+  "observed_at": "2026-11-16T11:18:03+00:00",
+  "domain": "rdw.nl",
+  "ldhName": "rdw.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "ns0067.secondary.cloudflare.com",
+    "ns0142.secondary.cloudflare.com",
+    "ns10.rdw.nl",
+    "ns7.rdw.nl",
+    "ns8.rdw.nl",
+    "ns9.rdw.nl"
+  ],
+  "entities": [
+    "DOM134011-RDWNL",
+    "DOM134011-RDWNL",
+    "RIJ003715-RDWNL",
+    "0000"
+  ]
+}

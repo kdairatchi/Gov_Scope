@@ -1,0 +1,20 @@
+{
+  "observed_at": "2026-11-16T11:18:42+00:00",
+  "domain": "rechtsbijstand.nl",
+  "ldhName": "rechtsbijstand.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "ns1.eurodns.com",
+    "ns2.eurodns.com",
+    "ns3.eurodns.com",
+    "ns4.eurodns.com"
+  ],
+  "entities": [
+    "RAD017792-EUDNS",
+    "RAD017793-EUDNS",
+    "ADL000341-EUDNS",
+    "0000"
+  ]
+}

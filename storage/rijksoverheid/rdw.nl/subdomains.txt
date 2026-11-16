@@ -12,6 +12,7 @@ acn-archief.rdw.nl
 act-intern.rdw.nl
 act.rdw.nl
 afnorth.rdw.nl
+aic-inspiratie.rdw.nl
 aicoeapp.rdw.nl
 aitgkcert.rdw.nl
 aiwkr.rdw.nl
@@ -99,6 +100,7 @@ coachaanmelden.rdw.nl
 colla2-a.rdw.nl
 colla2.rdw.nl
 conf.rdw.nl
+copilotmarketplace.rdw.nl
 correctietenaamstellingaanvragen.rdw.nl
 crl.rdw.nl
 crosweb.rdw.nl
@@ -113,6 +115,7 @@ dbr.rdw.nl
 dbrbackend.rdw.nl
 dbringress.rdw.nl
 dbrmonitoring.rdw.nl
+ddl-beheer.rdw.nl
 demontagecode-aanvragen.rdw.nl
 demontagecodeaanvragen.rdw.nl
 devdocs-a.rdw.nl
@@ -127,8 +130,10 @@ dienstenportaal.rdw.nl
 digitaalaanvrageninschrijving-ctrl.rdw.nl
 digitaalaanvrageninschrijving.rdw.nl
 digitaalmachtigen.rdw.nl
+digitalekluis.rdw.nl
 directaccess.rdw.nl
 dkw.rdw.nl
+dnt.rdw.nl
 do-it-a.rdw.nl
 do-it.rdw.nl
 documentnummercontroleren.rdw.nl
@@ -200,6 +205,7 @@ hibp.rdw.nl
 huisstijlweb.rdw.nl
 icm.rdw.nl
 icmintern.rdw.nl
+igk.rdw.nl
 imerk.rdw.nl
 inform.rdw.nl
 inspire.rdw.nl
@@ -313,6 +319,7 @@ papierenkentekenbewijsomwisselen.rdw.nl
 parambeheerHH.rdw.nl
 parambeheerhh.rdw.nl
 parked.rdw.nl
+pas.rdw.nl
 pasbedrijven.rdw.nl
 passwordreset.rdw.nl
 pda.rdw.nl
@@ -384,6 +391,7 @@ rexoopsrv1.rdw.nl
 rexoopsrv2.rdw.nl
 rijbewijsaanvragen.rdw.nl
 rijbewijscontroleren.rdw.nl
+rit.rdw.nl
 rme-api.rdw.nl
 rme.rdw.nl
 rme2.rdw.nl
@@ -406,6 +414,7 @@ senioren.rdw.nl
 service.rdw.nl
 servicemanager-ota.ka.rdw.nl
 shared.rdw.nl
+shpv.rdw.nl
 shpvdwh03.rdw.nl
 sign-cert-osb.rdw.nl
 sip.rdw.nl
@@ -466,10 +475,12 @@ teveelbetaaldschorsingsbedragterugvragen.rdw.nl
 tgk-sps-a.rdw.nl
 tgk-sps.rdw.nl
 tgk.rdw.nl
+tgkcontroleren.rdw.nl
 tgvbeheer.rdw.nl
 thuiswerken.rdw.nl
 tijdelijkdocumentnummeraanvragen.rdw.nl
 tkr.rdw.nl
+tmv.rdw.nl
 toe.rdw.nl
 toetsen.rdw.nl
 tol-ap.rdw.nl
@@ -528,6 +539,7 @@ vvkbedrijven.rdw.nl
 vwh.rdw.nl
 vwhclient.rdw.nl
 vwhsigner.rdw.nl
+webams.rdw.nl
 webbrv.rdw.nl
 webgca.rdw.nl
 webmail.rdw.nl

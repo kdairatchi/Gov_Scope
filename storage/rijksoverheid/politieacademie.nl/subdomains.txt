@@ -18,6 +18,7 @@ backbone.politieacademie.nl
 bromtotaal.politieacademie.nl
 bronnen-t.politieacademie.nl
 bronnen.politieacademie.nl
+canvas.politieacademie.nl
 case360-a.politieacademie.nl
 case360-t.politieacademie.nl
 case360.politieacademie.nl
@@ -125,6 +126,8 @@ qmanage459.politieacademie.nl
 qmanage460.politieacademie.nl
 questback.politieacademie.nl
 sduwt.politieacademie.nl
+servicecalls-a.politieacademie.nl
+servicecalls-t.politieacademie.nl
 sftp.politieacademie.nl
 srv-ap-web186.politieacademie.nl
 sso.politieacademie.nl

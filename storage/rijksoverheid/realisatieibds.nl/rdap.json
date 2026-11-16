@@ -1,0 +1,20 @@
+{
+  "observed_at": "2026-11-16T11:18:05+00:00",
+  "domain": "realisatieibds.nl",
+  "ldhName": "realisatieibds.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "ns-1346.awsdns-40.org",
+    "ns-2000.awsdns-58.co.uk",
+    "ns-280.awsdns-35.com",
+    "ns-927.awsdns-51.net"
+  ],
+  "entities": [
+    "DIE039938-RIJKS",
+    "DIE039938-RIJKS",
+    "RIJ038642-RIJKS",
+    "0000"
+  ]
+}

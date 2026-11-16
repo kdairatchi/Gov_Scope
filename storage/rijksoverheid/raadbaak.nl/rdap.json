@@ -1,0 +1,20 @@
+{
+  "observed_at": "2026-11-16T11:13:29+00:00",
+  "domain": "raadbaak.nl",
+  "ldhName": "raadbaak.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "ns1.openprovider.nl",
+    "ns2.openprovider.be",
+    "ns3.openprovider.eu"
+  ],
+  "entities": [
+    "WIN025619-OPENP",
+    "WIN025619-OPENP",
+    "WIN025619-OPENP",
+    "0000",
+    "REDACTED-BY-SIDN"
+  ]
+}

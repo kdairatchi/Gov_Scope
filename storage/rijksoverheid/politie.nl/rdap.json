@@ -1,0 +1,25 @@
+{
+  "observed_at": "2026-11-16T11:08:40+00:00",
+  "domain": "politie.nl",
+  "ldhName": "politie.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "a1-90.akam.net",
+    "a10-67.akam.net",
+    "a28-67.akam.net",
+    "a5-67.akam.net",
+    "a6-67.akam.net",
+    "a9-66.akam.net",
+    "ns2.kpn.net",
+    "ns4.kpn.net"
+  ],
+  "entities": [
+    "PET070286-KPN00",
+    "TEC019162-KPN00",
+    "TEC021149-KPN00",
+    "POL019128-KPN00",
+    "0000"
+  ]
+}
