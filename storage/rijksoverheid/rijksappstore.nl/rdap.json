@@ -1,0 +1,18 @@
+{
+  "observed_at": "2026-11-17T11:41:36+00:00",
+  "domain": "rijksappstore.nl",
+  "ldhName": "rijksappstore.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "ns1.dictu.nl",
+    "ns2.dictu.nl"
+  ],
+  "entities": [
+    "DIE020959-RIJKS",
+    "DIE020959-RIJKS",
+    "RIJ031105-RIJKS",
+    "0000"
+  ]
+}

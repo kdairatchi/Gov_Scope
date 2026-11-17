@@ -1,0 +1,20 @@
+{
+  "observed_at": "2026-11-17T11:35:57+00:00",
+  "domain": "rechtwijzer.nl",
+  "ldhName": "rechtwijzer.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "ns1.eurodns.com",
+    "ns2.eurodns.com",
+    "ns3.eurodns.com",
+    "ns4.eurodns.com"
+  ],
+  "entities": [
+    "RAD017790-EUDNS",
+    "RAD017791-EUDNS",
+    "ADL000341-EUDNS",
+    "0000"
+  ]
+}

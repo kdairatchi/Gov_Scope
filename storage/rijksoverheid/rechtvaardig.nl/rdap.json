@@ -1,0 +1,20 @@
+{
+  "observed_at": "2026-11-17T11:36:11+00:00",
+  "domain": "rechtvaardig.nl",
+  "ldhName": "rechtvaardig.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "ns1.argewebhosting.eu",
+    "ns2.argewebhosting.com",
+    "ns3.argewebhosting.nl"
+  ],
+  "entities": [
+    "ARG004269-FIRST",
+    "COL023133-FIRST",
+    "COL023133-FIRST",
+    "0000",
+    "REDACTED-BY-SIDN"
+  ]
+}
