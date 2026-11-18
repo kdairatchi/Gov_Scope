@@ -1,0 +1,18 @@
+{
+  "observed_at": "2026-11-18T12:11:28+00:00",
+  "domain": "samenbouwenaanbereikbaarheid.nl",
+  "ldhName": "samenbouwenaanbereikbaarheid.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "alan.ns.cloudflare.com",
+    "rita.ns.cloudflare.com"
+  ],
+  "entities": [
+    "DIE037765-RIJKS",
+    "RIJ038642-RIJKS",
+    "DIE037765-RIJKS",
+    "0000"
+  ]
+}

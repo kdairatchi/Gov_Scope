@@ -1,0 +1,19 @@
+{
+  "observed_at": "2026-11-18T12:09:09+00:00",
+  "domain": "rwsgolfdag.nl",
+  "ldhName": "rwsgolfdag.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "ns1.cloud.eurovps.com",
+    "ns2.cloud.eurovps.com"
+  ],
+  "entities": [
+    "HEN065772-METAR",
+    "ATO002054-METAR",
+    "HEN065772-METAR",
+    "0000",
+    "REDACTED-BY-SIDN"
+  ]
+}

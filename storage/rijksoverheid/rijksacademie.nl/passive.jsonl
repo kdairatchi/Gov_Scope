@@ -1,2 +1,12 @@
+{"host": "advies.rijksacademie.nl", "source": "crtsh", "first_seen": "2026-11-18T11:56:55+00:00", "last_seen": "2026-11-18T11:56:55+00:00"}
+{"host": "dev.rijksacademie.nl", "source": "crtsh", "first_seen": "2026-11-18T11:56:55+00:00", "last_seen": "2026-11-18T11:56:55+00:00"}
+{"host": "feeds.rijksacademie.nl", "source": "crtsh", "first_seen": "2026-11-18T11:56:55+00:00", "last_seen": "2026-11-18T11:56:55+00:00"}
+{"host": "helpdesk.rijksacademie.nl", "source": "crtsh", "first_seen": "2026-11-18T11:56:55+00:00", "last_seen": "2026-11-18T11:56:55+00:00"}
+{"host": "infoscherm.rijksacademie.nl", "source": "crtsh", "first_seen": "2026-11-18T11:56:55+00:00", "last_seen": "2026-11-18T11:56:55+00:00"}
+{"host": "leren.rijksacademie.nl", "source": "crtsh", "first_seen": "2026-11-18T11:56:55+00:00", "last_seen": "2026-11-18T11:56:55+00:00"}
+{"host": "nieuwsbrief.rijksacademie.nl", "source": "crtsh", "first_seen": "2026-11-18T11:56:55+00:00", "last_seen": "2026-11-18T11:56:55+00:00"}
+{"host": "opendata.rijksacademie.nl", "source": "crtsh", "first_seen": "2026-11-18T11:56:55+00:00", "last_seen": "2026-11-18T11:56:55+00:00"}
 {"host": "www.rijksacademie.nl", "source": "commoncrawl", "first_seen": "2026-11-17T11:40:57+00:00", "last_seen": "2026-11-17T11:40:57+00:00"}
-{"host": "www.rijksacademie.nl", "source": "wayback", "first_seen": "2026-11-17T11:40:57+00:00", "last_seen": "2026-11-17T11:40:57+00:00"}
+{"host": "www.rijksacademie.nl", "source": "crtsh", "first_seen": "2026-11-18T11:56:55+00:00", "last_seen": "2026-11-18T11:56:55+00:00"}
+{"host": "www.rijksacademie.nl", "source": "wayback", "first_seen": "2026-11-17T11:40:57+00:00", "last_seen": "2026-11-18T11:56:55+00:00"}
+{"host": "wwwold.rijksacademie.nl", "source": "crtsh", "first_seen": "2026-11-18T11:56:55+00:00", "last_seen": "2026-11-18T11:56:55+00:00"}

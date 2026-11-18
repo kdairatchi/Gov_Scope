@@ -54,6 +54,7 @@ bgt-client-certificaat-acc.rvo.nl
 bgt-client-certificaat.rvo.nl
 bo-prod.mijnoctrooi.rvo.nl
 bob.rvo.nl
+bpa-s.rvo.nl
 bpa.rvo.nl
 ciam.rvo.nl
 clacc-mijn.rvo.nl
@@ -67,8 +68,10 @@ cms.werkenbij.rvo.nl
 confluenceimg-acc.rvo.nl
 confluenceimg.rvo.nl
 crowdtech.rvo.nl
+cta-s.rvo.nl
 cta.rvo.nl
 d7.rvo.nl
+dashboards.rvo.nl
 data.rvo.nl
 dcmp-upnl-idp-acc.rvo.nl
 dcmp-upnl-idp.rvo.nl
@@ -81,6 +84,12 @@ e.garanties.rvo.nl
 e.rvo.nl
 economicdiplomacy.rvo.nl
 edicrop-acc.rvo.nl
+edicrop-p-acc.rvo.nl
+edicrop-p.rvo.nl
+edicrop-s-acc.rvo.nl
+edicrop-s.rvo.nl
+edicrop-ws-acc.rvo.nl
+edicrop-ws-p.rvo.nl
 edicrop.rvo.nl
 edu-iam.mijnoctrooi.mypage.rvo.nl
 edu-mijnoctrooi.rvo.nl
@@ -118,6 +127,7 @@ geocontent.rvo.nl
 geoservices.rvo.nl
 gpa-tvs4-prod.rvo.nl
 gtpa-acc.rvo.nl
+gtpa-s-acc.rvo.nl
 gtpa.rvo.nl
 handelsmissies.rvo.nl
 iam.mijnoctrooi.mypage.rvo.nl
@@ -166,6 +176,7 @@ mp.rvo.nl
 mypage.rvo.nl
 nieuws.rvo.nl
 offshorewind.rvo.nl
+ojb-s.rvo.nl
 ojb.rvo.nl
 ont-mijn.rvo.nl
 ot-vgvhr-wv-ar.rvo.nl
@@ -246,6 +257,7 @@ vault-preprod.efiling.mijnoctrooi.rvo.nl
 vault.efiling.mijnoctrooi.rvo.nl
 vorijkbo-acc.rvo.nl
 vorijkbo-tst.rvo.nl
+vorijkbo.rvo.nl
 wba-acc.rvo.nl
 wba.rvo.nl
 webform.rvo.nl

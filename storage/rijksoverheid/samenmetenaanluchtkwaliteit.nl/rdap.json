@@ -1,0 +1,20 @@
+{
+  "observed_at": "2026-11-18T12:11:30+00:00",
+  "domain": "samenmetenaanluchtkwaliteit.nl",
+  "ldhName": "samenmetenaanluchtkwaliteit.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "ns1.ssc-campus.nl",
+    "ns1.w-e-r-k.nl",
+    "ns2.ssc-campus.nl",
+    "ns2.w-e-r-k.nl"
+  ],
+  "entities": [
+    "DIE039938-RIJKS",
+    "DIE039938-RIJKS",
+    "RIJ038642-RIJKS",
+    "0000"
+  ]
+}

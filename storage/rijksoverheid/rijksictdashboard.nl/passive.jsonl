@@ -1,1 +1,7 @@
+{"host": "acc.beheer.rijksictdashboard.nl", "source": "crtsh", "first_seen": "2026-11-18T11:58:49+00:00", "last_seen": "2026-11-18T11:58:49+00:00"}
+{"host": "acc.rijksictdashboard.nl", "source": "crtsh", "first_seen": "2026-11-18T11:58:49+00:00", "last_seen": "2026-11-18T11:58:49+00:00"}
+{"host": "beheer.rijksictdashboard.nl", "source": "crtsh", "first_seen": "2026-11-18T11:58:49+00:00", "last_seen": "2026-11-18T11:58:49+00:00"}
+{"host": "test.beheer.rijksictdashboard.nl", "source": "crtsh", "first_seen": "2026-11-18T11:58:49+00:00", "last_seen": "2026-11-18T11:58:49+00:00"}
+{"host": "test.rijksictdashboard.nl", "source": "crtsh", "first_seen": "2026-11-18T11:58:49+00:00", "last_seen": "2026-11-18T11:58:49+00:00"}
 {"host": "www.rijksictdashboard.nl", "source": "commoncrawl", "first_seen": "2026-11-17T11:42:48+00:00", "last_seen": "2026-11-17T11:42:48+00:00"}
+{"host": "www.rijksictdashboard.nl", "source": "crtsh", "first_seen": "2026-11-18T11:58:49+00:00", "last_seen": "2026-11-18T11:58:49+00:00"}

@@ -12054,6 +12054,7 @@ ont.live.rijkswaterstaat.nl
 ont.live.werkenbij.rijkswaterstaat.nl
 ont.staging.rijkswaterstaat.nl
 ont.staging.werkenbij.rijkswaterstaat.nl
+ontwikkel.esb.rijkswaterstaat.nl
 open.rijkswaterstaat.nl
 opleiding.spin2.rijkswaterstaat.nl
 overstroomik.rijkswaterstaat.nl
@@ -12233,7 +12234,10 @@ apex-cmm.rivm.nl
 api-samenmeten.rivm.nl
 api.acc-lsp.rivm.nl
 api.acc-seqdb.rivm.nl
+api.casedb.lsp-acc.rivm.nl
 api.casedb.lsp-dev.rivm.nl
+api.casedb.lsp-tst.rivm.nl
+api.casedb.lsp.rivm.nl
 api.dev-lsp.rivm.nl
 api.rivm.nl
 api.tst-lsp.rivm.nl
@@ -12252,7 +12256,9 @@ biotechnologie.rivm.nl
 calpro.bori.rivm.nl
 campus-t.rivm.nl
 caontb.rivm.nl
+casedb.lsp-acc.rivm.nl
 casedb.lsp-dev.rivm.nl
+casedb.lsp-tst.rivm.nl
 ccc-appgw-test1.rivm.nl
 cdif.osiris.rivm.nl
 ceses.osiris.rivm.nl
@@ -12272,6 +12278,7 @@ cstm.rivm.nl
 dashview.rivm.nl
 data-acc.rivm.nl
 data.rivm.nl
+datacatalogus.rivm.nl
 datavisualisatie.rivm.nl
 demo.pb-pk.rivm.nl
 dev-lsp.rivm.nl
@@ -12280,6 +12287,7 @@ dev-veldmonitoring.rivm.nl
 dev.chauffeurs.rivm.nl
 dev.scanapp.rivm.nl
 developer.rivm.nl
+disc-tool.rivm.nl
 dme-gw-dmz.rivm.nl
 dmponline.rivm.nl
 docsacc.rivm.nl
@@ -12353,6 +12361,7 @@ lkvis.rivm.nl
 lml.rivm.nl
 lmm.rivm.nl
 loculus.app.lsp-dev.rivm.nl
+loculus.app.lsp.rivm.nl
 login.rivm.nl
 longcovid.rivm.nl
 lsocit.rivm.nl
@@ -12416,6 +12425,7 @@ password.osiris.rivm.nl
 password.rivm.nl
 philotes.rivm.nl
 pilot-vcpapp.rivm.nl
+portaal.rivm.nl
 portie-online.rivm.nl
 prd-agstat.rivm.nl
 pre-login.rivm.nl
@@ -12696,6 +12706,7 @@ bgt-client-certificaat-acc.rvo.nl
 bgt-client-certificaat.rvo.nl
 bo-prod.mijnoctrooi.rvo.nl
 bob.rvo.nl
+bpa-s.rvo.nl
 bpa.rvo.nl
 ciam.rvo.nl
 clacc-mijn.rvo.nl
@@ -12709,8 +12720,10 @@ cms.werkenbij.rvo.nl
 confluenceimg-acc.rvo.nl
 confluenceimg.rvo.nl
 crowdtech.rvo.nl
+cta-s.rvo.nl
 cta.rvo.nl
 d7.rvo.nl
+dashboards.rvo.nl
 data.rvo.nl
 dcmp-upnl-idp-acc.rvo.nl
 dcmp-upnl-idp.rvo.nl
@@ -12723,6 +12736,12 @@ e.garanties.rvo.nl
 e.rvo.nl
 economicdiplomacy.rvo.nl
 edicrop-acc.rvo.nl
+edicrop-p-acc.rvo.nl
+edicrop-p.rvo.nl
+edicrop-s-acc.rvo.nl
+edicrop-s.rvo.nl
+edicrop-ws-acc.rvo.nl
+edicrop-ws-p.rvo.nl
 edicrop.rvo.nl
 edu-iam.mijnoctrooi.mypage.rvo.nl
 edu-mijnoctrooi.rvo.nl
@@ -12760,6 +12779,7 @@ geocontent.rvo.nl
 geoservices.rvo.nl
 gpa-tvs4-prod.rvo.nl
 gtpa-acc.rvo.nl
+gtpa-s-acc.rvo.nl
 gtpa.rvo.nl
 handelsmissies.rvo.nl
 iam.mijnoctrooi.mypage.rvo.nl
@@ -12803,6 +12823,7 @@ mp.rvo.nl
 mypage.rvo.nl
 nieuws.rvo.nl
 offshorewind.rvo.nl
+ojb-s.rvo.nl
 ojb.rvo.nl
 ont-mijn.rvo.nl
 ot-vgvhr-wv-ar.rvo.nl
@@ -12876,6 +12897,7 @@ vault-preprod.efiling.mijnoctrooi.rvo.nl
 vault.efiling.mijnoctrooi.rvo.nl
 vorijkbo-acc.rvo.nl
 vorijkbo-tst.rvo.nl
+vorijkbo.rvo.nl
 wba-acc.rvo.nl
 wba.rvo.nl
 webform.rvo.nl
@@ -12993,6 +13015,7 @@ wbtvsp.rvr.org
 wbtvspacc.rvr.org
 wsnp.rvr.org
 www.acc-vtlb.rvr.org
+www.beleidswijzer.rvr.org
 www.fs.rvr.org
 www.intra.rvr.org
 www.kenniswijzer.rvr.org
@@ -13761,6 +13784,7 @@ rwsgolfdag.nl
 webdisk.rwsgolfdag.nl
 webmail.rwsgolfdag.nl
 www.rwsgolfdag.nl
+www.webdisk.rwsgolfdag.nl
 rwsinnoveert.nl
 www.rwsinnoveert.nl
 rwsnatura2000.nl

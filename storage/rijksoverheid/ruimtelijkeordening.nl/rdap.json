@@ -1,0 +1,20 @@
+{
+  "observed_at": "2026-11-18T12:05:51+00:00",
+  "domain": "ruimtelijkeordening.nl",
+  "ldhName": "ruimtelijkeordening.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "ns0.rijksoverheidnl.com",
+    "ns1.rijksoverheidnl.nl",
+    "ns2.rijksoverheidnl.eu",
+    "ns3.rijksoverheidnl.org"
+  ],
+  "entities": [
+    "RIJ038642-RIJKS",
+    "DIE039938-RIJKS",
+    "DIE039938-RIJKS",
+    "0000"
+  ]
+}
