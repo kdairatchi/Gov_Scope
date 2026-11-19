@@ -1,0 +1,21 @@
+{
+  "observed_at": "2026-11-19T11:50:19+00:00",
+  "domain": "slo.nl",
+  "ldhName": "slo.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "ns1.dn-s.nl",
+    "ns2.dn-s.be",
+    "ns3.dn-s.eu",
+    "ns4.dn-s.org"
+  ],
+  "entities": [
+    "STG004774-TRAIP",
+    "VIK002032-TRAIP",
+    "VIK002027-TRAIP",
+    "0000",
+    "REDACTED-BY-SIDN"
+  ]
+}

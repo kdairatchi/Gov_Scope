@@ -16,6 +16,7 @@ bb-wbtv-acc.rvr.org
 bb-wbtv.rvr.org
 bb-wrb-acc.rvr.org
 bb-wrb.rvr.org
+beleidswijzer.rvr.org
 bopzterug.rvr.org
 bopzuit.rvr.org
 broker.rvr.org
@@ -50,6 +51,7 @@ outsite.rvr.org
 pat-fn.rvr.org
 politie-acc.rvr.org
 politie.rvr.org
+pop.rvr.org
 qwsnp-fe-acc.rvr.org
 qwsnp-fe-prd.rvr.org
 qwsnp-spf-acc.rvr.org

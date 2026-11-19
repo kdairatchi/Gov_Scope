@@ -56,6 +56,8 @@ bo-prod.mijnoctrooi.rvo.nl
 bob.rvo.nl
 bpa-s.rvo.nl
 bpa.rvo.nl
+bpaapp.rvo.nl
+bpagateway.rvo.nl
 ciam.rvo.nl
 clacc-mijn.rvo.nl
 clientcert-acc.rvo.nl
@@ -89,7 +91,9 @@ edicrop-p.rvo.nl
 edicrop-s-acc.rvo.nl
 edicrop-s.rvo.nl
 edicrop-ws-acc.rvo.nl
+edicrop-ws-p-acc.rvo.nl
 edicrop-ws-p.rvo.nl
+edicrop-ws.rvo.nl
 edicrop.rvo.nl
 edu-iam.mijnoctrooi.mypage.rvo.nl
 edu-mijnoctrooi.rvo.nl
@@ -128,6 +132,7 @@ geoservices.rvo.nl
 gpa-tvs4-prod.rvo.nl
 gtpa-acc.rvo.nl
 gtpa-s-acc.rvo.nl
+gtpa-s.rvo.nl
 gtpa.rvo.nl
 handelsmissies.rvo.nl
 iam.mijnoctrooi.mypage.rvo.nl

@@ -1,0 +1,18 @@
+{
+  "observed_at": "2026-11-19T11:49:15+00:00",
+  "domain": "sitearchief.nl",
+  "ldhName": "sitearchief.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "igor.ns.cloudflare.com",
+    "meera.ns.cloudflare.com"
+  ],
+  "entities": [
+    "DIE020959-RIJKS",
+    "DIE020959-RIJKS",
+    "RIJ031105-RIJKS",
+    "0000"
+  ]
+}
