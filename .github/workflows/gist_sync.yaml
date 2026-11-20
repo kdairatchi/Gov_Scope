@@ -6,6 +6,11 @@ on:
     types:
       - completed
 
+# Optional: set GIST_ID and GIST_TOKEN secrets to publish scope data to a Gist.
+# If secrets are not set the step is skipped — scan results are always committed to the repo.
+# To set up: gh secret set GIST_ID --repo kdairatchi/Gov_Scope
+#            gh secret set GIST_TOKEN --repo kdairatchi/Gov_Scope  (classic PAT with gist scope)
+
 jobs:
   export-and-gist:
     if: ${{ github.event.workflow_run.conclusion == 'success' }}
@@ -24,9 +29,13 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r engine/requirements.txt
 
-
       - name: Push rijksoverheid scope to Gist
+        if: ${{ secrets.GIST_ID != '' && secrets.GIST_TOKEN != '' }}
         env:
           GIST_ID: ${{ secrets.GIST_ID }}
           GIST_TOKEN: ${{ secrets.GIST_TOKEN }}
         run: python engine/gist_update.py
+
+      - name: Skip Gist sync (secrets not configured)
+        if: ${{ secrets.GIST_ID == '' || secrets.GIST_TOKEN == '' }}
+        run: echo "GIST_ID/GIST_TOKEN not set — scope data stays in repo only. Set secrets to enable Gist export."
