@@ -1,0 +1,18 @@
+{
+  "observed_at": "2026-11-20T11:43:58+00:00",
+  "domain": "tenderned.nl",
+  "ldhName": "tenderned.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "ns1.dictu.nl",
+    "ns2.dictu.nl"
+  ],
+  "entities": [
+    "DIE020959-RIJKS",
+    "DIE020959-RIJKS",
+    "RIJ031105-RIJKS",
+    "0000"
+  ]
+}

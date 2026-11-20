@@ -1,0 +1,19 @@
+{
+  "observed_at": "2026-11-20T11:40:58+00:00",
+  "domain": "stopheling.nl",
+  "ldhName": "stopheling.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "nsauth1.introweb.nl",
+    "nsauth2.introweb.nl",
+    "nsauth3.introweb.net"
+  ],
+  "entities": [
+    "DIE039938-RIJKS",
+    "DIE039938-RIJKS",
+    "RIJ038642-RIJKS",
+    "0000"
+  ]
+}

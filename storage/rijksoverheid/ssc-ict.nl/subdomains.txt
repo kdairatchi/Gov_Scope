@@ -1,4 +1,5 @@
 _dmarc.ssc-ict.nl
+ai-geletterdheid.ssc-ict.nl
 chat-acc.servicedesk.ssc-ict.nl
 chat.servicedesk.ssc-ict.nl
 dc.ssc-ict.nl
@@ -21,6 +22,7 @@ sbc-ota-B-tenant03.ssc-ict.nl
 sbc-ota-B-tenant04.ssc-ict.nl
 sbc-ota-a-tenant-C01.ssc-ict.nl
 sbc-ota-a-tenant-c01.ssc-ict.nl
+sbc-ota-a-tenant-c02.ssc-ict.nl
 sbc-ota-a-tenant0.dev.ssc-ict.nl
 sbc-ota-a-tenant01.ssc-ict.nl
 sbc-ota-a-tenant02.dwrt2.ssc-ict.nl

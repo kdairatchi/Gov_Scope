@@ -49,6 +49,8 @@ modules-talentontwikkeling.slo.nl
 mvt.slo.nl
 natuurentechniek-kennisbasis-onderbouw.slo.nl
 natuurentechniek.slo.nl
+nederlands-basistaal.slo.nl
+nederlands-leesgesprekken.slo.nl
 nederlands.slo.nl
 onderzoekinzesstappen.slo.nl
 opendata.slo.nl

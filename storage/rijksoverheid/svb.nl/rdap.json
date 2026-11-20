@@ -1,0 +1,20 @@
+{
+  "observed_at": "2026-11-20T11:43:25+00:00",
+  "domain": "svb.nl",
+  "ldhName": "svb.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "ns1.f5clouddns.com",
+    "ns1.premium-dns.net",
+    "ns2.f5clouddns.com",
+    "ns2.premium-dns.net"
+  ],
+  "entities": [
+    "SOK001383-METAR",
+    "SOK001382-METAR",
+    "SOK001381-METAR",
+    "0000"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "observed_at": "2026-11-20T11:47:39+00:00",
+  "domain": "toeslagen.nl",
+  "ldhName": "toeslagen.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "ns2.belastingdienst.nl",
+    "ns3.belastingdienst.nl",
+    "ns4.belastingdienst.nl"
+  ],
+  "entities": [
+    "BEL010416-BLICT",
+    "PET009912-BLICT",
+    "LOV000355-BLICT",
+    "0000"
+  ]
+}

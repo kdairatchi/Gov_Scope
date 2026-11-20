@@ -10,6 +10,7 @@ RDSapplications06.svb.nl
 RDSapplications07.svb.nl
 ac.sa.svb.nl
 actransitc.svb.nl
+apigw.svb.nl
 apim-icc-a.svb.nl
 apim-icc-t.svb.nl
 apim-icc.svb.nl
@@ -47,6 +48,7 @@ cbonte.entreepgb.svb.nl
 cbtepr.entreepgb.svb.nl
 cbtest.entreepgb.svb.nl
 cmsintranet.svb.nl
+connect-dn-z.entreepgb.svb.nl
 desktop.entreepgb.svb.nl
 desktopaccp.entreepgb.svb.nl
 desktopaccp2.entreepgb.svb.nl
@@ -160,6 +162,7 @@ vlan2007_internet_uc-bgp-r01-2.svb.nl
 vlan2007_internet_uc-bgp-r01.svb.nl
 vork-acc.svb.nl
 vork-tst.svb.nl
+vork.svb.nl
 wifi.svb.nl
 www-a.svb.nl
 www.entreepgb.svb.nl

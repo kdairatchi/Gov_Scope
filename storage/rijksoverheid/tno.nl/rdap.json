@@ -1,0 +1,21 @@
+{
+  "observed_at": "2026-11-20T11:46:01+00:00",
+  "domain": "tno.nl",
+  "ldhName": "tno.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "app-dns01.tno.nl",
+    "app-dns02.tno.nl",
+    "ns1.surfnet.nl"
+  ],
+  "entities": [
+    "TEJ000136-SURFN",
+    "BIE001378-SURFN",
+    "DEK003578-SURFN",
+    "TNO000318-SURFN",
+    "TEJ000136-SURFN",
+    "0000"
+  ]
+}

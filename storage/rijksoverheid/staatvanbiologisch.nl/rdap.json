@@ -1,0 +1,19 @@
+{
+  "observed_at": "2026-11-20T11:38:17+00:00",
+  "domain": "staatvanbiologisch.nl",
+  "ldhName": "staatvanbiologisch.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "ns-ext-01.wur.nl",
+    "ns1.surfnet.nl",
+    "ns1.zurich.surf.net"
+  ],
+  "entities": [
+    "HOT020459-SURFN",
+    "HOT020459-SURFN",
+    "HOT020459-SURFN",
+    "0000"
+  ]
+}
