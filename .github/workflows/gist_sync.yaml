@@ -5,6 +5,7 @@ on:
     workflows: ["Subdomain scan"]
     types:
       - completed
+  workflow_dispatch:
 
 # Optional: set GIST_ID and GIST_TOKEN secrets to publish scope data to a Gist.
 # If not set, scan results stay in the repo only — no failure.
@@ -13,7 +14,7 @@ on:
 
 jobs:
   export-and-gist:
-    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
