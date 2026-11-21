@@ -1,0 +1,22 @@
+{
+  "observed_at": "2026-11-21T10:49:36+00:00",
+  "domain": "validatie.nl",
+  "ldhName": "validatie.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "a1-157.akam.net",
+    "a10-65.akam.net",
+    "a28-64.akam.net",
+    "a3-65.akam.net",
+    "a4-66.akam.net",
+    "a9-65.akam.net"
+  ],
+  "entities": [
+    "DIE020959-RIJKS",
+    "RIJ031105-RIJKS",
+    "DIE020959-RIJKS",
+    "0000"
+  ]
+}

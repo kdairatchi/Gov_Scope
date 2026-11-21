@@ -1,0 +1,18 @@
+{
+  "observed_at": "2026-11-21T10:50:12+00:00",
+  "domain": "vechtstromen.nl",
+  "ldhName": "vechtstromen.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "webhostingserver.g1-dns.com",
+    "webhostingserver.g1-dns.one"
+  ],
+  "entities": [
+    "WAT008462-AFILA",
+    "WAT008462-AFILA",
+    "WAT008462-AFILA",
+    "0000"
+  ]
+}

@@ -10,6 +10,11 @@ RDSapplications06.svb.nl
 RDSapplications07.svb.nl
 ac.sa.svb.nl
 actransitc.svb.nl
+apigw-acc.svb.nl
+apigw-b2b-acc.svb.nl
+apigw-b2b-tst.svb.nl
+apigw-b2b.svb.nl
+apigw-tst.svb.nl
 apigw.svb.nl
 apim-icc-a.svb.nl
 apim-icc-t.svb.nl
@@ -48,6 +53,7 @@ cbonte.entreepgb.svb.nl
 cbtepr.entreepgb.svb.nl
 cbtest.entreepgb.svb.nl
 cmsintranet.svb.nl
+connect-dn-z.acc.entreepgb.svb.nl
 connect-dn-z.entreepgb.svb.nl
 desktop.entreepgb.svb.nl
 desktopaccp.entreepgb.svb.nl
@@ -89,6 +95,8 @@ mail.entreepgb.svb.nl
 marba.svb.nl
 mft-acc.svb.nl
 mft-prd.svb.nl
+mftweb-o.svb.nl
+mftweb-p.svb.nl
 mijnpgb-a.svb.nl
 mijnpgb-siam-a.svb.nl
 mijnpgb-siam.svb.nl
