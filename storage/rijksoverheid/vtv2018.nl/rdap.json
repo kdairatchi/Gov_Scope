@@ -1,0 +1,20 @@
+{
+  "observed_at": "2026-11-22T10:46:31+00:00",
+  "domain": "vtv2018.nl",
+  "ldhName": "vtv2018.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "ns1.ssc-campus.nl",
+    "ns1.w-e-r-k.nl",
+    "ns2.ssc-campus.nl",
+    "ns2.w-e-r-k.nl"
+  ],
+  "entities": [
+    "RIJ038642-RIJKS",
+    "DIE039938-RIJKS",
+    "DIE039938-RIJKS",
+    "0000"
+  ]
+}

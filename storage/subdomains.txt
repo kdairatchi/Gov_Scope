@@ -16770,6 +16770,7 @@ www.veiligheidsregioflevoland.nl
 veiligtatoeerenenpiercen.nl
 www.veiligtatoeerenenpiercen.nl
 accept.dienstverleningskompas.venster.nl
+autodiscover.venster.nl
 dienstverlening.venster.nl
 dienstverleningskompas.venster.nl
 test.dienstverleningskompas.venster.nl
@@ -16801,6 +16802,7 @@ www.verbeterjehuis.nl
 verduurzamingindustrie.nl
 www.verduurzamingindustrie.nl
 aanvragen.vergoedingsns.nl
+autodiscover.vergoedingsns.nl
 vergoedingsns.nl
 www.vergoedingsns.nl
 verhalenoverdeoorlog.nl
@@ -16811,6 +16813,7 @@ www.verkeersveiligheidscampagnes.nl
 beheer.verkiezingsuitslagen.nl
 verkiezingsuitslagen.nl
 www.verkiezingsuitslagen.nl
+test.verlofadviescollege.nl
 verlofadviescollege.nl
 www.verlofadviescollege.nl
 financiering.versnellingshuisce.nl
@@ -16858,9 +16861,11 @@ www.voordejeugdenhetgezin.nl
 voorlandbouwennatuur.nl
 werkplaats.voorlandbouwennatuur.nl
 www.voorlandbouwennatuur.nl
+app.vorijk.nl
 demo.vorijk.nl
 vorijk.nl
 www.vorijk.nl
+autodiscover.vrachtwagenheffing.nl
 communicatieportaal.vrachtwagenheffing.nl
 english.vrachtwagenheffing.nl
 feeds.english.vrachtwagenheffing.nl

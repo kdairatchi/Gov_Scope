@@ -1,0 +1,20 @@
+{
+  "observed_at": "2026-11-22T10:43:33+00:00",
+  "domain": "venster.nl",
+  "ldhName": "venster.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "ns-1440.awsdns-52.org",
+    "ns-1645.awsdns-13.co.uk",
+    "ns-300.awsdns-37.com",
+    "ns-968.awsdns-57.net"
+  ],
+  "entities": [
+    "RIJ038642-RIJKS",
+    "DIE039938-RIJKS",
+    "DIE039938-RIJKS",
+    "0000"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "observed_at": "2026-11-22T10:46:07+00:00",
+  "domain": "vrachtwagenheffing.nl",
+  "ldhName": "vrachtwagenheffing.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "ns0067.secondary.cloudflare.com",
+    "ns0142.secondary.cloudflare.com",
+    "ns10.rdw.nl",
+    "ns7.rdw.nl",
+    "ns8.rdw.nl",
+    "ns9.rdw.nl"
+  ],
+  "entities": [
+    "DOM134011-RDWNL",
+    "RIJ003715-RDWNL",
+    "DOM134011-RDWNL",
+    "0000"
+  ]
+}

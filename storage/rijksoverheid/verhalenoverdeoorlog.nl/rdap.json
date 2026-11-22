@@ -1,0 +1,20 @@
+{
+  "observed_at": "2026-11-22T10:43:45+00:00",
+  "domain": "verhalenoverdeoorlog.nl",
+  "ldhName": "verhalenoverdeoorlog.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "ns1.argewebhosting.eu",
+    "ns2.argewebhosting.com",
+    "ns3.argewebhosting.nl"
+  ],
+  "entities": [
+    "SOC005412-FIRST",
+    "HEE006083-FIRST",
+    "SOC005412-FIRST",
+    "0000",
+    "REDACTED-BY-SIDN"
+  ]
+}

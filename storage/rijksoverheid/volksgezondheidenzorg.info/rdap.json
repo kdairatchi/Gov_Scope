@@ -1,0 +1,17 @@
+{
+  "observed_at": "2026-11-22T10:45:12+00:00",
+  "domain": "volksgezondheidenzorg.info",
+  "ldhName": "volksgezondheidenzorg.info",
+  "status": [
+    "client transfer prohibited"
+  ],
+  "nameservers": [
+    "ns1.ssc-campus.nl",
+    "ns1.w-e-r-k.nl",
+    "ns2.ssc-campus.nl",
+    "ns2.w-e-r-k.nl"
+  ],
+  "entities": [
+    "1464"
+  ]
+}

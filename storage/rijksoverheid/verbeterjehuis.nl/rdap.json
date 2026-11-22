@@ -1,0 +1,21 @@
+{
+  "observed_at": "2026-11-22T10:43:36+00:00",
+  "domain": "verbeterjehuis.nl",
+  "ldhName": "verbeterjehuis.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "dns41.cloudns.net",
+    "dns42.cloudns.net",
+    "dns43.cloudns.net",
+    "dns44.cloudns.net"
+  ],
+  "entities": [
+    "STI233239-OPENP",
+    "STI233239-OPENP",
+    "XAR000891-OPENP",
+    "0000",
+    "REDACTED-BY-SIDN"
+  ]
+}
