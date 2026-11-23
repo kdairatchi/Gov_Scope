@@ -1,0 +1,20 @@
+{
+  "observed_at": "2026-11-23T11:59:43+00:00",
+  "domain": "werkenbijderdw.nl",
+  "ldhName": "werkenbijderdw.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "ns10.rdw.nl",
+    "ns7.rdw.nl",
+    "ns8.rdw.nl",
+    "ns9.rdw.nl"
+  ],
+  "entities": [
+    "DOM134011-RDWNL",
+    "DOM134011-RDWNL",
+    "RIJ003715-RDWNL",
+    "0000"
+  ]
+}

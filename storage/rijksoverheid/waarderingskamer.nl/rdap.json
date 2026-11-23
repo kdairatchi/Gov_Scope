@@ -1,0 +1,17 @@
+{
+  "observed_at": "2026-11-23T11:51:51+00:00",
+  "domain": "waarderingskamer.nl",
+  "ldhName": "waarderingskamer.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "ns10.networkoperations.nl",
+    "ns11.networkoperations.nl"
+  ],
+  "entities": [
+    "GJV001541-CROSS",
+    "SER034751-CROSS",
+    "0000"
+  ]
+}

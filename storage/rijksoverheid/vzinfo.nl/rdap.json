@@ -1,0 +1,20 @@
+{
+  "observed_at": "2026-11-23T11:51:07+00:00",
+  "domain": "vzinfo.nl",
+  "ldhName": "vzinfo.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "ns1.ssc-campus.nl",
+    "ns1.surfnet.nl",
+    "ns2.ssc-campus.nl",
+    "ns2.surfnet.nl"
+  ],
+  "entities": [
+    "DIE039938-RIJKS",
+    "RIJ038642-RIJKS",
+    "DIE039938-RIJKS",
+    "0000"
+  ]
+}

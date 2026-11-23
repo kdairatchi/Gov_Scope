@@ -1,0 +1,19 @@
+{
+  "observed_at": "2026-11-23T11:56:25+00:00",
+  "domain": "welcome-to-nl.nl",
+  "ldhName": "welcome-to-nl.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "ns1.gcorelabs.net",
+    "ns2.gcdn.services"
+  ],
+  "entities": [
+    "HUM007051-TRAIP",
+    "HUM007052-TRAIP",
+    "HUM007053-TRAIP",
+    "0000",
+    "REDACTED-BY-SIDN"
+  ]
+}

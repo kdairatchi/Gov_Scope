@@ -1,0 +1,18 @@
+{
+  "observed_at": "2026-11-23T11:51:32+00:00",
+  "domain": "waarzitwatin.nl",
+  "ldhName": "waarzitwatin.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "cruz.ns.cloudflare.com",
+    "west.ns.cloudflare.com"
+  ],
+  "entities": [
+    "DIE020959-RIJKS",
+    "RIJ031105-RIJKS",
+    "DIE020959-RIJKS",
+    "0000"
+  ]
+}

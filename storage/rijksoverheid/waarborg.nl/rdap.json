@@ -1,0 +1,19 @@
+{
+  "observed_at": "2026-11-23T11:51:25+00:00",
+  "domain": "waarborg.nl",
+  "ldhName": "waarborg.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "ns1.flexwebhosting.nl",
+    "ns2.flexwebhosting.nl",
+    "ns3.flexwebhosting.com"
+  ],
+  "entities": [
+    "DOW002081-FIRST",
+    "WAA009966-FIRST",
+    "WAA009966-FIRST",
+    "0000"
+  ]
+}

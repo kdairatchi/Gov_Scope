@@ -1,0 +1,20 @@
+{
+  "observed_at": "2026-11-23T11:53:47+00:00",
+  "domain": "waterschaplimburg.nl",
+  "ldhName": "waterschaplimburg.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "ns0.transip.net",
+    "ns1.transip.nl",
+    "ns2.transip.eu"
+  ],
+  "entities": [
+    "WAT013268-TRAIP",
+    "WAT013272-TRAIP",
+    "WAT013270-TRAIP",
+    "0000",
+    "REDACTED-BY-SIDN"
+  ]
+}
