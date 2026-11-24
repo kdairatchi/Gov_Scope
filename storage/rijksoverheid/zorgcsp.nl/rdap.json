@@ -1,0 +1,18 @@
+{
+  "observed_at": "2026-11-24T13:33:53+00:00",
+  "domain": "zorgcsp.nl",
+  "ldhName": "zorgcsp.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "ns1.kpn.net",
+    "ns11.kpn.net"
+  ],
+  "entities": [
+    "DIE020959-RIJKS",
+    "DIE020959-RIJKS",
+    "RIJ031105-RIJKS",
+    "0000"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "observed_at": "2026-11-24T13:32:05+00:00",
+  "domain": "zichtopwijken.nl",
+  "ldhName": "zichtopwijken.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "nsn1.mijndomein.nl",
+    "nsn2.mijndomein.nl"
+  ],
+  "entities": [
+    "MIJ012811-METAR",
+    "BUU005914-METAR",
+    "BUU005914-METAR",
+    "0000",
+    "REDACTED-BY-SIDN"
+  ]
+}
