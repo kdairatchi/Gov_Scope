@@ -1,0 +1,20 @@
+{
+  "observed_at": "2026-11-26T11:58:17+00:00",
+  "domain": "aerius.nl",
+  "ldhName": "aerius.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "ns-1130.awsdns-13.org",
+    "ns-1683.awsdns-18.co.uk",
+    "ns-396.awsdns-49.com",
+    "ns-712.awsdns-25.net"
+  ],
+  "entities": [
+    "RIJ038642-RIJKS",
+    "DIE037765-RIJKS",
+    "DIE037765-RIJKS",
+    "0000"
+  ]
+}

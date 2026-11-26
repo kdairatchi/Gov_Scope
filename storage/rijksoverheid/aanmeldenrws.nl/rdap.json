@@ -1,0 +1,19 @@
+{
+  "observed_at": "2026-11-26T11:51:28+00:00",
+  "domain": "aanmeldenrws.nl",
+  "ldhName": "aanmeldenrws.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "ns.dma.nl",
+    "ns2.dma.nl",
+    "ns3.dma.nl"
+  ],
+  "entities": [
+    "DMA001923-DMACS",
+    "DEP024450-DMACS",
+    "DEP024450-DMACS",
+    "0000"
+  ]
+}

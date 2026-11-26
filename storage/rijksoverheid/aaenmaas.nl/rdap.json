@@ -1,0 +1,19 @@
+{
+  "observed_at": "2026-11-26T11:51:01+00:00",
+  "domain": "aaenmaas.nl",
+  "ldhName": "aaenmaas.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "nsauth1.bit.nl",
+    "nsauth2.bit.nl",
+    "nsauth3.bitnl.eu"
+  ],
+  "entities": [
+    "BEK000739-BIT00",
+    "WAT003388-BIT00",
+    "BEK000739-BIT00",
+    "0000"
+  ]
+}

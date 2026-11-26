@@ -21,6 +21,7 @@ luchtfoto.aaenmaas.nl
 maps.aaenmaas.nl
 oa.aaenmaas.nl
 testeloket.aaenmaas.nl
+vpn.aaenmaas.nl
 vpn2.aaenmaas.nl
 wachtwoordwijzigen.aaenmaas.nl
 webgis.aaenmaas.nl
@@ -83,6 +84,8 @@ banaan.services.acm.nl
 bijna.acm.nl
 codata.acm.nl
 connect.acm.nl
+consument-acc.acm.nl
+consument-test.acm.nl
 consument.acm.nl
 cryptshare.acm.nl
 cryptshare.services.acm.nl
@@ -154,6 +157,7 @@ vpn.acm.nl
 vpn.services.acm.nl
 vsp.acm.nl
 vsp.services.acm.nl
+webmail.acm.nl
 werkplek.acm.nl
 werkplek.services.acm.nl
 wf5051.acm.nl
@@ -163,6 +167,7 @@ wifi.acm.nl
 wlc1254.acm.nl
 www.acm.nl
 www.authentication.acm.nl
+www.consument.acm.nl
 zendto.acm.nl
 acoi.nl
 woo-wijzer.acoi.nl
