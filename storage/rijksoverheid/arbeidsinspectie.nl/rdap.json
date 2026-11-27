@@ -1,0 +1,19 @@
+{
+  "observed_at": "2026-11-27T11:48:52+00:00",
+  "domain": "arbeidsinspectie.nl",
+  "ldhName": "arbeidsinspectie.nl",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "ns1.ssonet.nl",
+    "ns2.ssonet.nl",
+    "ns3.ssonet.nl"
+  ],
+  "entities": [
+    "DIE020959-RIJKS",
+    "DIE020959-RIJKS",
+    "RIJ031105-RIJKS",
+    "0000"
+  ]
+}
